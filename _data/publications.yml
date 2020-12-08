@@ -1,0 +1,54 @@
+-   title: Accelerated Learning with Robustness to Adversarial Regressors
+    authors: J.E. Gaudio, A.M. Annaswamy, J.M. Moreu, M.A. Bolender, T.E. Gibson
+    year: 2020
+    where: arXiv
+    arxiv: https://arxiv.org/abs/2005.01529
+    link: https://arxiv.org/abs/2005.01529
+
+-   title: Chronostrain&#58; Sequence quality and time aware strain tracking with shotgun metagenomic data
+    authors: Y. Kim, S. Acharya, D. Alfonsetti, G.K. Gerber, B. Berger, T.E. Gibson
+    where: ICML Workshop on Computational Biology
+    year: 2020
+    link: https://icml-compbio.github.io/
+    poster: /posters/kim20mlcb.pdf
+
+-   title: Dynamic Modulation of the Gut Microbiota and Metabolome by Bacteriophages in a Mouse Model
+    authors: B.B. Hsu, T.E. Gibson, V. Yeliseyev, Q. Liu, L. Bry, P.A. Silver, G.K. Gerber
+    where: Cell Host and Microbe
+    year: 2019
+    biorxiv: https://doi.org/10.1101/454579
+    pdf: /papers/hsu19hostmicrobe.pdf
+    link: https://doi.org/10.1016/j.chom.2019.05.001
+    news1name: phys.org
+    news1link: https://phys.org/news/2019-06-phage-bacteria-predators-gut-microbiome.html
+
+-   title: Robust and Scalable Models of Microbiome Dynamics
+    authors: T.E. Gibson, G.K. Gerber
+    where: International Conference on Machine Learning
+    year: 2018
+    arxiv: https://arxiv.org/abs/1805.04591
+    link: http://proceedings.mlr.press/v80/gibson18a.html
+    pdf: /papers/gibson18icml.pdf
+    poster: /posters/gibson18icml.pdf
+    video: https://vimeo.com/287803871
+    presentation: /slides/gibson18icml.pdf
+
+
+-   title: Convergence Properties of Adaptive Systems and the Definition of Exponential Stability
+    authors: B.M. Jenkins, A.M. Annaswamy, E. Lavretsky, and T.E. Gibson
+    where: SIAM Journal on Control and Optimization
+    year: 2018
+    arxiv: https://arxiv.org/abs/1511.03222
+    link: https://doi.org/10.1137/15M1047805
+    pdf: /papers/gibson18siam.pdf
+
+-   title: Universality of human microbial dynamics
+    authors: A. Bashan, T.E. Gibson, J. Friedman,	V.J. Carey,	S.T. Weiss, E.L. Hohmann and Y.-Y. Liu
+    where: Nature
+    year: 2016
+    pdf: /papers/bashan16nature.pdf
+    link: https://doi.org/10.1038/nature18301
+    news1name: Nature, News and Views
+    news1link: /news/bashan16nature_nv.pdf
+    news2name: Nature Physics, Highlight
+    news2link: /news/bashan16nature_highlight.pdf
