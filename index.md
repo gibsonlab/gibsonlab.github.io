@@ -10,20 +10,23 @@ title: Home
 permalink: /
 ---
 <div align="center">
-<img  src="/image/main.svg" alt="Gibon Lab" width=250pt >
+<img  src="/image/main.svg" alt="Gibon Lab" width=325pt >
 </div>
+
 <p align=center> <b> control theory - statistical machine learning - experimental biology </b></p>
 
+
+<!--
 <p align=center><a href="https://comp-path.bwh.harvard.edu/">Division of Computational Pathology </a></p>
 <p align=center> <a href="https://www.brighamandwomens.org/">Brigham and Women's Hospital</a></p>
 <p align=center> <a href="https://hms.harvard.edu/">Harvard Medical School</a></p>
-
-<span style="display: block; margin-bottom: 2em"></span>
+-->
+<span style="display: block; margin-bottom: 1.5em"></span>
 
 <p align=center>
-      <a href="https://github.com/GibsonLab" style="display: inline-block"><i class="fa fa-github"></i> GibsonLab</a>&nbsp;&nbsp;&nbsp;
-      <a href="https://twitter.com/GibsonNews" style="display: inline-block"><i class="fa fa-twitter"></i> GibsonNews</a>&nbsp;&nbsp;&nbsp;
-      <a href="mailto:tegibson@bwh.harvard.edu" style="display: inline-block"><i class="fa fa-envelope-o"></i> tegibson@bwh.harvard.edu</a></p>
+      <a href="https://github.com/GibsonLab" style="display: inline-block"><i class="fa fa-github fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://twitter.com/GibsonNews" style="display: inline-block"><i class="fa fa-twitter fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
+      <a href="mailto:tegibson@bwh.harvard.edu" style="display: inline-block"><i class="fa fa-envelope-o fa-lg"></i></a></p>
 
 <!-- <span style="display: block; margin-bottom: 3em"></span>
 <div style="   background: WhiteSmoke; padding: 10px; border-radius:10px; border: 1px solid Gray; width: 85%; margin: auto">
