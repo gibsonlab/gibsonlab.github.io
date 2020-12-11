@@ -39,7 +39,7 @@ Our main experimental system is gnotobiotic mice (germ-free), where we can colon
 ## Our modeling research
 <div>
 <figure class="image" style="float: right;">
-<a href="/posters/gibson18icml.pdf"><img src='/image/gibson18icml_small.png' alt="mouse time series" style="width: 375px;
+<a href="/posters/gibson18icml.pdf"><img src='/image/gibson18icml.png' alt="mouse time series" style="width: 375px;
     display: block;
     margin: auto;
     float: auto;" /></a>
@@ -47,7 +47,7 @@ Our main experimental system is gnotobiotic mice (germ-free), where we can colon
 </figure>
 
 <figure class="image" style="float: left;">
-<a href="/posters/kim20mlcb.pdf"><img src='/image/kim20mlcb_small.png' alt="mouse time series" style="width: 375px;
+<a href="/posters/kim20mlcb.pdf"><img src='/image/kim20mlcb.png' alt="mouse time series" style="width: 375px;
     display: block;
     margin: auto;
     float: auto;" /></a>
