@@ -21,7 +21,7 @@ Ths Gibson Lab is in the Division of Computational Pathology at Brigham and Wome
 <img src='/image/highordertuner3.svg' alt="higher order tuner" style="width: 450px;
     display: block;
     margin: auto;" />
-    <figcaption> Figure 1: Higher order tuner demonstrating the ability to maintain stability during model training <button name="button" onclick="window.location.href='{{ pub.pdf }}'"><i class="far fa-file-pdf"></i> paper</button></figcaption>
+    <figcaption> Figure 1: Higher order tuner demonstrating the ability to maintain stability during model training <button name="button" onclick="window.location.href='https://arxiv.org/abs/2005.01529'"><i class="far fa-file-pdf"></i> paper</button></figcaption>
 </figure>
 ## Our experimental biology research
 Our main experimental system is gnotobiotic mice (germ-free), where we can colonize mice with whatever background flora we desire.
@@ -30,7 +30,7 @@ Our main experimental system is gnotobiotic mice (germ-free), where we can colon
 <img src='/image/mouse_time.png' alt="mouse time series" style="width: 650px;
     display: block;
     margin: auto;" />
-    <figcaption> Figure 2: Mouse time series <button name="button" onclick="window.location.href='{{ pub.pdf }}'"><i class="far fa-file-pdf"></i> paper</button></figcaption>
+    <figcaption> Figure 2: Mouse time series <button name="button" onclick="window.location.href='/papers/hsu19hostmicrobe.pdf'"><i class="far fa-file-pdf"></i> paper</button></figcaption>
 </figure>
 
 ## Our modeling research
@@ -41,8 +41,8 @@ Our main experimental system is gnotobiotic mice (germ-free), where we can colon
     margin: auto;
     float: auto;" /></a>
     <figcaption> Figure 3: Robust and Scalable Models of Microbiome Dynamics
-    <button name="button" onclick="window.location.href='{{ pub.pdf }}'"><i class="far fa-file-pdf"></i> paper</button>
-    <button name="button" onclick="window.location.href='{{ pub.poster }}'"><i class="far fa-file-pdf"></i> poster</button>
+    <button name="button" onclick="window.location.href='http://proceedings.mlr.press/v80/gibson18a.html'"><i class="far fa-file-pdf"></i> paper</button>
+    <button name="button" onclick="window.location.href='/posters/gibson18icml.pdf'"><i class="far fa-file-pdf"></i> poster</button>
     </figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Our main experimental system is gnotobiotic mice (germ-free), where we can colon
     margin: auto;
     float: auto;" /></a>
     <figcaption> Figure 4: Chronostrain
-    <button name="button" onclick="window.location.href='{{ pub.poster }}'"><i class="far fa-file-pdf"></i> poster</button>
+    <button name="button" onclick="window.location.href='/posters/kim20mlcb.pdf'"><i class="far fa-file-pdf"></i> poster</button>
     </figcaption>
 </figure>
 </div>
