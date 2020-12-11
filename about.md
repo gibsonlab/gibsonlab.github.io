@@ -58,7 +58,6 @@ Our main experimental system is gnotobiotic mice (germ-free), where we can colon
 </div>
 
 
-
 ## Current collaborative projects
 
 [National Science Foundation: The rules of microbiota colonization of the mammalian gut](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025515&HistoricalAwards=false)
