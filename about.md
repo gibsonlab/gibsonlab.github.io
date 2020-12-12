@@ -16,7 +16,7 @@ In our research we leverage tools from machine learning and control to understan
 
 
 ## Sample from our recent theoretical learning research
-<figure class="image" style="float: center; width: 450px; margin: auto;">
+<figure class="image" style="float: center; width: 450px;">
 <img src='/image/highordertuner3.svg' alt="higher order tuner" style="width: 450px;
     display: block;
     margin: auto;" />
