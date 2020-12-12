@@ -46,7 +46,7 @@ Our main experimental system is gnotobiotic mice (germ-free), where we can colon
     width: 375px;
     max-width: 100%;
     max-height: 100%;">
-<a href="/posters/gibson18icml.pdf"><img src='/image/gibson18icml.png' alt="mouse time series" style="width: 375px;
+<a href="/posters/gibson18icml.pdf"><img src='/posters/vec_gibson.svg' alt="mouse time series" style="width: 375px;
     display: block;
     margin: auto;
     float: auto;" /></a>
