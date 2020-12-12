@@ -23,7 +23,8 @@ In our research we leverage tools from machine learning and control to understan
     display: block;
     max-width: 100%;
     max-height: 100%;">
-<img src='/image/highordertuner3.svg' alt="higher order tuner" style="width: 450px;
+<img src='/image/highordertuner3.svg' alt="higher order tuner" style="
+    width: 450px;
     display: block;
     margin: auto;" />
     <figcaption> Figure 1: Higher order tuner demonstrating the ability to maintain stability during model training <button name="button" onclick="window.location.href='https://arxiv.org/abs/2005.01529'"><i class="far fa-file-pdf"></i> paper</button></figcaption>
@@ -40,7 +41,11 @@ Our main experimental system is gnotobiotic mice (germ-free), where we can colon
 
 ## Samples from our modeling research
 
-<figure class="image" style="float: right; width: 375px;">
+<figure class="image" style="
+    float: right;
+    width: 375px;
+    max-width: 100%;
+    max-height: 100%;">
 <a href="/posters/gibson18icml.pdf"><img src='/image/gibson18icml.png' alt="mouse time series" style="width: 375px;
     display: block;
     margin: auto;
@@ -51,7 +56,11 @@ Our main experimental system is gnotobiotic mice (germ-free), where we can colon
     </figcaption>
 </figure>
 
-<figure class="image" style="float: left;">
+<figure class="image" style="
+    float: left;
+    width: 375px;
+    max-width: 100%;
+    max-height: 100%;">
 <a href="/posters/kim20mlcb.pdf"><img src='/image/kim20mlcb.png' alt="mouse time series" style="width: 375px;
     display: block;
     margin: auto;
