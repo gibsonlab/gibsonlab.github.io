@@ -16,6 +16,9 @@ In our research we leverage tools from machine learning and control to understan
 
 
 ## Sample from our recent theoretical learning research
+
+Gradient descent is at the core of most
+
 <figure class="image" style="
     float: center;
     width: 450px;
@@ -29,7 +32,9 @@ In our research we leverage tools from machine learning and control to understan
     margin: auto;" />
     <figcaption> Figure 1: Higher order tuner demonstrating the ability to maintain stability during model training <button name="button" onclick="window.location.href='https://arxiv.org/abs/2005.01529'"><i class="far fa-file-pdf"></i> paper</button></figcaption>
 </figure>
+
 ## Sample from our recent experimental biology research
+
 Our main experimental system is gnotobiotic mice (germ-free), where we can colonize mice with whatever background flora we desire.
 
 <figure class="image">
