@@ -14,7 +14,7 @@ permalink: /
 <meta name="twitter:site" content="@GibsonNews" />
 <meta name="twitter:title" content="Gibson Lab" />
 <meta name="twitter:description" content="Homepage" />
-<meta name="twitter:image" content="https://gibsonlab.io/image/gibson_lab_logo_twitter-01.png"/>
+<meta name="twitter:image" content="https://gibsonlab.io/image/twitter_gibsonlab-01.png"/>
 
 
 <div align="center">
