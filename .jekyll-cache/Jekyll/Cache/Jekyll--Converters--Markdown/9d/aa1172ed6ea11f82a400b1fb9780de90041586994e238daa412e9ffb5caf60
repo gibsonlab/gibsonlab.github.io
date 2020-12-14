@@ -1,52 +1,4 @@
-<!DOCTYPE html>
-<html lang="en"><head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>About | Gibson Lab</title>
-<meta name="generator" content="Jekyll v4.1.1" />
-<meta property="og:title" content="About" />
-<meta name="author" content="Gibson Lab" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="http://localhost:4000/about/" />
-<meta property="og:url" content="http://localhost:4000/about/" />
-<meta property="og:site_name" content="Gibson Lab" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="About" />
-<script type="application/ld+json">
-{"url":"http://localhost:4000/about/","headline":"About","name":"Gibson Lab","author":{"@type":"Person","name":"Gibson Lab"},"@type":"WebSite","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Gibson Lab" />
-
-<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
-<link rel="manifest" href="/favicon/site.webmanifest">
-<link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#707070">
-<meta name="msapplication-TileColor" content="#2b5797">
-<meta name="theme-color" content="#d2d2d2">
-
-<script src="https://kit.fontawesome.com/31fa76c185.js" crossorigin="anonymous"></script>
-<script src="https://kit.fontawesome.com/31fa76c185.js" crossorigin="anonymous"></script>
-</head>
-<body><header class="site-header">
-
-  <div class="wrapper"><a class="site-title" rel="author" href="/">Gibson Lab</a><nav class="site-nav">
-        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-        <label for="nav-trigger">
-          <span class="menu-icon">
-            <svg viewBox="0 0 18 15" width="18px" height="15px">
-              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
-            </svg>
-          </span>
-        </label>
-
-        <div class="trigger"><a class="page-link" href="/">Home</a><a class="page-link" href="/about/">About</a><a class="page-link" href="/people/">People</a><a class="page-link" href="/positions/">Positions</a><a class="page-link" href="/publications/">Publications</a></div>
-      </nav></div>
-</header>
-<main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        <p>Ths Gibson Lab is part of the <a href="https://comp-path.bwh.harvard.edu/">Division of Computational Pathology</a> at <a href="https://www.brighamhealth.org/">Brigham and Women’s Hospital</a> and <a href="https://hms.harvard.edu/">Harvard Medical School</a>. We are physically located in the  <a href="https://www.google.com/maps/place/Building+for+Transformative+Medicine+at+Brigham+and+Women's+Hospital/@42.3353661,-71.1087175,15z/data=!4m5!3m4!1s0x0:0x35376a566e389c7d!8m2!3d42.3353661!4d-71.1087175">Hale Building for Transformative Medicine (BTM) in 8002</a> in Boston with space also at the <a href="https://www.google.com/maps/place/Stata+Center,+32+Vassar+St,+Cambridge,+MA+02139/@42.3616095,-71.0928242,17z/data=!3m1!4b1!4m5!3m4!1s0x89e370a95d3025a9:0xb1de557289ff6bbe!8m2!3d42.3616095!4d-71.0906355">MIT Stata Center (32-G570)</a>  in Cambridge.</p>
+I"�!<p>Ths Gibson Lab is part of the <a href="https://comp-path.bwh.harvard.edu/">Division of Computational Pathology</a> at <a href="https://www.brighamhealth.org/">Brigham and Women’s Hospital</a> and <a href="https://hms.harvard.edu/">Harvard Medical School</a>. We are physically located in the  <a href="https://www.google.com/maps/place/Building+for+Transformative+Medicine+at+Brigham+and+Women's+Hospital/@42.3353661,-71.1087175,15z/data=!4m5!3m4!1s0x0:0x35376a566e389c7d!8m2!3d42.3353661!4d-71.1087175">Hale Building for Transformative Medicine (BTM) in 8002</a> in Boston with space also at the <a href="https://www.google.com/maps/place/Stata+Center,+32+Vassar+St,+Cambridge,+MA+02139/@42.3616095,-71.0928242,17z/data=!3m1!4b1!4m5!3m4!1s0x89e370a95d3025a9:0xb1de557289ff6bbe!8m2!3d42.3616095!4d-71.0906355">MIT Stata Center (32-G570)</a>  in Cambridge.</p>
 
 <p>In our research we leverage tools from machine learning and control to understand biological systems.  Control theoretic concepts are integrated both in the design of our optimization schemes and statistical machine learning models, as well as in the design of our <em>in vitro</em> and <em>in vivo</em> experiments. Current and future projects include</p>
 <ul>
@@ -76,7 +28,7 @@
 
 <h2 id="sample-from-our-experimental-research">Sample from our experimental research</h2>
 
-<p>Our main experimental system for studying the microbiome is <a href="https://en.wikipedia.org/wiki/Gnotobiosis">gnotobiotic</a> mice. We are particularly interested in developing bacterio-therapies, and to develop those therapies we need to have an experimental system that allows us to probe the dynamics of complex microbial communities <em>in vivo</em>. We colonize <a href="https://en.wikipedia.org/wiki/Germ-free_animal">germ-free</a> mice with defined microbial communities as well as human fecal samples (creating “humanized” mice). To obtain rich dynamic profiles we perturb the microbial environment by changing the diet of the animals, presenting colonization challenges from other bacteria, delivering antibiotics, and by introducing bacteriophages. One of our experiments looking to understand the direct and indirect role of phage predation on the microbiome is shown in Figure 2 (accompanying <a href="/papers/hsu19hostmicrobe.pdf">paper</a>).</p>
+<p>Our main experimental system for studying the microbiome is <a href="https://en.wikipedia.org/wiki/Gnotobiosis">gnotobiotic</a> mice. We are particularly interested in developing bacterio-therapies, and to develop those therapies we need to have an experimental system that allows us to probe the dynamics of complex microbial communities <em>in vivo</em>. We colonize <a href="https://en.wikipedia.org/wiki/Germ-free_animal">germ-free</a> mice with both defined communities as well ashuman fecal samples (creating “humanized” mice). To obtain rich dynamic profiles form the murine microbiome we perturb the microbial environment by changing the diet of the animals, presenting colonization challenges from other bacteria, delivering antibiotics, and by introducing bacteriophages. One of our experiments looking to understand the direct and indirect role of phage predation on the microbiome is shown in Figure 2 (accompanying <a href="/papers/hsu19hostmicrobe.pdf">paper</a>).</p>
 
 <p><figure class="image" style="
     width: 650px;
@@ -147,22 +99,4 @@
   <li><a href="https://hultgrenlab.wustl.edu/">Hultgren Lab - WUSTL</a></li>
   <li><a href="https://www.broadinstitute.org/bios/ashlee-earl">Bacterial Genomics Group - Broad Institute (Earl)</a></li>
 </ul>
-
-      </div>
-    </main><footer class="site-footer h-card">
-  <data class="u-url" href="/"></data>
-
-  <div class="wrapper">
-      <div class="footer-col-wrapper">
-      <div class="footer-col" align="center">
-          <a href="/"><img src="/image/gibson_lab_logo_bw-02-01.svg" alt="Gibons Lab" height="30pt"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-          <a href="https://www.brighamandwomens.org/"><img src="/image/bwh_logo_bw-01.svg" alt="Gibons Lab" height="30pt"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-          <a href="https://hms.harvard.edu/"><img src="/image/harvard_logo_bw-01.svg" alt="Gibons Lab" height="30pt"></a>
-      </div>
-
-  </div>
-  </div>
-</footer>
-</body>
-
-</html>
+:ET

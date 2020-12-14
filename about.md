@@ -14,9 +14,9 @@ In our research we leverage tools from machine learning and control to understan
 * Time-series "omics" (metagenomics, transcriptomics, and metabolomics)
 
 
-## Sample from our recent theoretical learning research
+## Sample from our theoretical learning research
 
-Gradient based optimization schemes are at the core of both adaptive control and deep learning (many of there connections are reported [here](/papers/gaudio19cdc.pdf)). We leverage techniques used in adaptive control to improve the stability properties of gradient algorithms resulting in **provably stable** momentum based accelerated algorithms. Our algorithms are a log factor slower than Nesterov but with **stability guarantees**, see our [Higher Order Tuner](https://arxiv.org/abs/2005.01529) in Figure 1. Having *a priori* stability guarantees will be critical for certifying and deploying real-time and safety critical ML algorithms in the clinic.
+Gradient based optimization schemes are at the core of both adaptive control and deep learning (connections between adaptive control and ML are reported [here](/papers/gaudio19cdc.pdf)). We leverage techniques used in adaptive control to improve the stability properties of gradient algorithms resulting in **provably stable** momentum based accelerated algorithms. Our algorithms are a log factor slower than Nesterov but with **stability guarantees**, see our [Higher Order Tuner](https://arxiv.org/abs/2005.01529) in Figure 1. Having *a priori* stability guarantees will be critical for certifying and deploying real-time and safety critical ML algorithms in medical applications.
 <p><figure class="image" style="
     float: center;
     width: 450px;
@@ -28,12 +28,12 @@ Gradient based optimization schemes are at the core of both adaptive control and
     width: 450px;
     display: block;
     margin: auto;" />
-    <figcaption> Figure 1: Higher order tuner demonstrating the ability to maintain stability during model training. At step 500 there is an abrupt change in the magnitude of streaming input data to the model <button name="button" onclick="window.location.href='https://arxiv.org/abs/2005.01529'"><i class="far fa-file-pdf"></i> paper</button></figcaption>
+    <figcaption> Figure 1: Higher order tuner demonstrating the ability to maintain stability during model training. At step 500 there is an abrupt change in the magnitude of the streaming input data to the model <button name="button" onclick="window.location.href='https://arxiv.org/abs/2005.01529'"><i class="far fa-file-pdf"></i> paper</button></figcaption>
 </figure></p>
 
-## Sample from our recent experimental biology research
+## Sample from our experimental research
 
-Our main experimental system for studying the microbiome is [gnotobiotic](https://en.wikipedia.org/wiki/Gnotobiosis) mice. We are particularly interested in developing bacterio-therapies, and to develop those therapies we need to have an experimental system that allows us to probe the dynamics of complex microbial communities *in vivo*. We colonize [germ-free](https://en.wikipedia.org/wiki/Germ-free_animal) mice with both defined communities as well as with with human fecal samples (creating "humanized" mice). To obtain rich dynamic profiles form the murine microbiome we perturb the microbial environment by changing the diet of the animals, presenting colonization challenges from other bacteria, delivering antibiotics, and by introducing bacteriophages. One of our experiments looking to understand the direct and indirect role of phage predation on the microbiome is shown in Figure 2 (accompanying [paper](/papers/hsu19hostmicrobe.pdf)).
+Our main experimental system for studying the microbiome is [gnotobiotic](https://en.wikipedia.org/wiki/Gnotobiosis) mice. We are particularly interested in developing bacterio-therapies, and to develop those therapies we need to have an experimental system that allows us to probe the dynamics of complex microbial communities *in vivo*. We colonize [germ-free](https://en.wikipedia.org/wiki/Germ-free_animal) mice with defined microbial communities as well as human fecal samples (creating "humanized" mice). To obtain rich dynamic profiles we perturb the microbial environment by changing the diet of the animals, presenting colonization challenges from other bacteria, delivering antibiotics, and by introducing bacteriophages. One of our experiments looking to understand the direct and indirect role of phage predation on the microbiome is shown in Figure 2 (accompanying [paper](/papers/hsu19hostmicrobe.pdf)).
 
 <p><figure class="image" style="
     width: 650px;
