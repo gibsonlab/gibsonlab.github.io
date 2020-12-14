@@ -49,7 +49,7 @@ Our main experimental system for studying the microbiome is [gnotobiotic](https:
 
 ## Samples from our modeling research
 
-To answer our biological questions surrounding the microbiome we build statistical models that propagate measurements uncertainty throughout our models. One example of this is our Robust and Scalable Model of Microbiome Dynamics (Figure 3). This model is a Bayesian nonparametric model of microbial dynamics based on what we term interaction modules, or learned clusters of latent variables with redundant interaction structure. This allows our model to scale to hundreds of microbial taxa. Another example of our modeling work is the method we are referring to as Chronostrain (Figure 4). Chronostrain is a sequencing quality and sample time aware strain tracking algorithm.
+To answer our biological questions surrounding the microbiome we build statistical models that propagate measurement and latent state uncertainty throughout the model. One example of this is our Robust and Scalable Model of Microbiome Dynamics (Figure 3). This model is a Bayesian nonparametric model of microbial dynamics based on what we term interaction modules, or learned clusters of latent variables with redundant interaction structure. This allows our model of dynamics to scale to hundreds of microbial taxa. Another example of our modeling work is the method Chronostrain (Figure 4). Chronostrain is a sequencing quality, host, and time aware strain tracking algorithm.
 
 <div style="display: inline-block;">
 <figure class="image" style="
