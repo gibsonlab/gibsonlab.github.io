@@ -323,6 +323,6 @@ table td { border: 1px solid #e8e8e8; }
 
 .image-caption { text-align: center; font-size: .8rem; color: light-grey; }
 
-figure figcaption { text-align: center; }
+figure figcaption { text-align: left; }
 
 /*# sourceMappingURL=style.css.map */

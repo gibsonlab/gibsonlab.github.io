@@ -1,6 +1,4 @@
-I"7<p><strong>under construction</strong></p>
-
-<p>Ths Gibson Lab is part of the <a href="https://comp-path.bwh.harvard.edu/">Division of Computational Pathology</a> at <a href="https://www.brighamhealth.org/">Brigham and Women’s Hospital</a> and <a href="https://hms.harvard.edu/">Harvard Medical School</a>. We are physically located in the  <a href="https://www.google.com/maps/place/Building+for+Transformative+Medicine+at+Brigham+and+Women's+Hospital/@42.3353661,-71.1087175,15z/data=!4m5!3m4!1s0x0:0x35376a566e389c7d!8m2!3d42.3353661!4d-71.1087175">Hale Building for Transformative Medicine (BTM) in 8002</a> in Boston with space also at the <a href="https://www.google.com/maps/place/Stata+Center,+32+Vassar+St,+Cambridge,+MA+02139/@42.3616095,-71.0928242,17z/data=!3m1!4b1!4m5!3m4!1s0x89e370a95d3025a9:0xb1de557289ff6bbe!8m2!3d42.3616095!4d-71.0906355">MIT Stata Center (32-G570)</a>  in Cambridge.</p>
+I"<p>Ths Gibson Lab is part of the <a href="https://comp-path.bwh.harvard.edu/">Division of Computational Pathology</a> at <a href="https://www.brighamhealth.org/">Brigham and Women’s Hospital</a> and <a href="https://hms.harvard.edu/">Harvard Medical School</a>. We are physically located in the  <a href="https://www.google.com/maps/place/Building+for+Transformative+Medicine+at+Brigham+and+Women's+Hospital/@42.3353661,-71.1087175,15z/data=!4m5!3m4!1s0x0:0x35376a566e389c7d!8m2!3d42.3353661!4d-71.1087175">Hale Building for Transformative Medicine (BTM) in 8002</a> in Boston with space also at the <a href="https://www.google.com/maps/place/Stata+Center,+32+Vassar+St,+Cambridge,+MA+02139/@42.3616095,-71.0928242,17z/data=!3m1!4b1!4m5!3m4!1s0x89e370a95d3025a9:0xb1de557289ff6bbe!8m2!3d42.3616095!4d-71.0906355">MIT Stata Center (32-G570)</a>  in Cambridge.</p>
 
 <p>In our research we leverage tools from machine learning and control to understand biological systems.  Control theoretic concepts are integrated both in the design of our optimization schemes and statistical machine learning models, as well as in the design of our <em>in vitro</em> and <em>in vivo</em> experiments. Current and future projects include</p>
 <ul>
@@ -13,9 +11,8 @@
 
 <h2 id="sample-from-our-recent-theoretical-learning-research">Sample from our recent theoretical learning research</h2>
 
-<p>Gradient descent is at the core of most</p>
-
-<figure class="image" style="
+<p>Gradient based optimization schemes are at the core of both adaptive control and deep learning (many of there connections are reported <a href="/papers/gaudio19cdc.pdf">here</a>). We levearge techniques used in adaptive control to improbve the stability properties of gradient algorithms resulting in <strong>provably stable</strong> momentum based accelerated algorithms. Our algorithms are a log factor slower than Nesterov but with <strong>stability guarantees</strong>, see our <a href="https://arxiv.org/abs/2005.01529">Higher Order Tuner</a> in Figure 1. Having <em>a priori</em> stability guarantees will be critical for certifying and deploying real-time and safety critical ML algorithms in the clinic.</p>
+<p><figure class="image" style="
     float: center;
     width: 450px;
     margin: auto;
@@ -26,19 +23,24 @@
     width: 450px;
     display: block;
     margin: auto;" />
-    <figcaption> Figure 1: Higher order tuner demonstrating the ability to maintain stability during model training <button name="button" onclick="window.location.href='https://arxiv.org/abs/2005.01529'"><i class="far fa-file-pdf"></i> paper</button></figcaption>
-</figure>
+    <figcaption> Figure 1: Higher order tuner demonstrating the ability to maintain stability during model training. At step 500 there is an abrupt change in the magnitude of streaming input data to the model <button name="button" onclick="window.location.href='https://arxiv.org/abs/2005.01529'"><i class="far fa-file-pdf"></i> paper</button></figcaption>
+</figure></p>
 
 <h2 id="sample-from-our-recent-experimental-biology-research">Sample from our recent experimental biology research</h2>
 
-<p>Our main experimental system is gnotobiotic mice (germ-free), where we can colonize mice with whatever background flora we desire.</p>
+<p>Our main experimental system for studying the microbiome is <a href="https://en.wikipedia.org/wiki/Gnotobiosis">gnotobiotic</a> mice. We are particuallary interested in developing bacterio-therapies, and to develop those therapies we need to have an experimental system that allows us to probe the dynamics of complex microbial communities <em>in vivo</em>. We colonize <a href="https://en.wikipedia.org/wiki/Germ-free_animal">germ-free</a> mice with both defined communities as well as with with human fecal samples (creating “humanized” mice). To obtain rich dynamic profiles form the murine microbiome we perturb the microbial environment by changing the diet of the animals, presenting colonization challenges from other bacteria, delivering antibiotics, and by introducing bacteriophages. For an example of one of our experiments looking to understand the direct and indirect roles of phage predation on the microbiome see Figure 2 and the accompanying <a href="/papers/hsu19hostmicrobe.pdf">paper</a>.</p>
 
-<figure class="image">
+<p><figure class="image" style="
+    width: 650px;
+    float: center;
+    margin: auto;
+    max-width: 100%;
+    max-height: 100%;">
 <img src="/image/mouse_time.png" alt="mouse time series" style="width: 650px;
     display: block;
     margin: auto;" />
-    <figcaption> Figure 2: Mouse time series <button name="button" onclick="window.location.href='/papers/hsu19hostmicrobe.pdf'"><i class="far fa-file-pdf"></i> paper</button></figcaption>
-</figure>
+    <figcaption> Figure 2: Gnotobiotic model of phage predation in the murine gut <button name="button" onclick="window.location.href='/papers/hsu19hostmicrobe.pdf'"><i class="far fa-file-pdf"></i> paper</button></figcaption>
+</figure></p>
 
 <h2 id="samples-from-our-modeling-research">Samples from our modeling research</h2>
 
