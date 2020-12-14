@@ -9,6 +9,14 @@ layout: default
 title: Home
 permalink: /
 ---
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@GibsonNews" />
+<meta name="twitter:title" content="Gibson Lab" />
+<meta name="twitter:description" content="Homepage" />
+<meta name="twitter:image" content="/image/gibson_lab_logo_twitter-01.png"/>
+
+
 <div align="center">
 <img  src="/image/main.svg" alt="Gibon Lab" width=325pt >
 </div>
