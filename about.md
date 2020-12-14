@@ -16,7 +16,7 @@ In our research we leverage tools from machine learning and control to understan
 
 ## Sample from our theoretical learning research
 
-Gradient based optimization schemes are at the core of both adaptive control and deep learning (connections between adaptive control and ML are reported [here](/papers/gaudio19cdc.pdf)). We leverage techniques used in adaptive control to improve the stability properties of gradient algorithms resulting in **provably stable** momentum based accelerated algorithms. Our algorithms are a log factor slower than Nesterov but with **stability guarantees**, see our [Higher Order Tuner](https://arxiv.org/abs/2005.01529) in Figure 1. Having *a priori* stability guarantees will be critical for certifying and deploying real-time and safety critical ML algorithms in medical applications.
+Gradient based optimization schemes are at the core of both adaptive control and optimization in ML (connections between the two are reported [here](/papers/gaudio19cdc.pdf)). We leverage techniques used in adaptive control to improve the stability properties of momentum based gradient algorithms resulting in **provably stable** accelerated algorithms. Our algorithms are a log factor slower than Nesterov but with **stability guarantees**, see our [Higher Order Tuner](https://arxiv.org/abs/2005.01529) in Figure 1. Having *a priori* stability guarantees will be critical for certifying and deploying real-time and safety critical ML algorithms in medical applications.
 <p><figure class="image" style="
     float: center;
     width: 450px;
