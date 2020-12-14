@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Ths Gibson Lab is part of the [Division of Computational Pathology](https://comp-path.bwh.harvard.edu/) at [Brigham and Women's Hospital](https://www.brighamhealth.org/) and [Harvard Medical School](https://hms.harvard.edu/). We are physically located in the  [Hale Building for Transformative Medicine (BTM) in 8002](https://www.google.com/maps/place/Building+for+Transformative+Medicine+at+Brigham+and+Women's+Hospital/@42.3353661,-71.1087175,15z/data=!4m5!3m4!1s0x0:0x35376a566e389c7d!8m2!3d42.3353661!4d-71.1087175) in Boston with space also at the [MIT Stata Center (32-G570)](https://www.google.com/maps/place/Stata+Center,+32+Vassar+St,+Cambridge,+MA+02139/@42.3616095,-71.0928242,17z/data=!3m1!4b1!4m5!3m4!1s0x89e370a95d3025a9:0xb1de557289ff6bbe!8m2!3d42.3616095!4d-71.0906355)  in Cambridge.
+The Gibson Lab is part of the [Division of Computational Pathology](https://comp-path.bwh.harvard.edu/) at [Brigham and Women's Hospital](https://www.brighamhealth.org/) and [Harvard Medical School](https://hms.harvard.edu/). We are physically located in the  [Hale Building for Transformative Medicine (BTM) in 8002](https://www.google.com/maps/place/Building+for+Transformative+Medicine+at+Brigham+and+Women's+Hospital/@42.3353661,-71.1087175,15z/data=!4m5!3m4!1s0x0:0x35376a566e389c7d!8m2!3d42.3353661!4d-71.1087175) in Boston with space also at the [MIT Stata Center (32-G570)](https://www.google.com/maps/place/Stata+Center,+32+Vassar+St,+Cambridge,+MA+02139/@42.3616095,-71.0928242,17z/data=!3m1!4b1!4m5!3m4!1s0x89e370a95d3025a9:0xb1de557289ff6bbe!8m2!3d42.3616095!4d-71.0906355)  in Cambridge.
 
 In our research we leverage tools from machine learning and control to understand biological systems.  Control theoretic concepts are integrated both in the design of our optimization schemes and statistical machine learning models, as well as in the design of our *in vitro* and *in vivo* experiments. Current and future projects include
 * Statistical learning applied to microbial dynamics (Bayesian nonparametrics, layered latent state-space models)
@@ -80,21 +80,9 @@ To answer our biological questions surrounding the microbiome we build statistic
 </figure>
 </div>
 
-## Current large multi investigator projects
-
- **[National Science Foundation - The rules of microbiota colonization of the mammalian gut](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025515&HistoricalAwards=false)**
-\\
-"This project has three main thrusts: 1) Learn microbial community-level rules that quantitatively predict population dynamics of mouse gut colonization and assess these rules across differing ranges of microbial diversity and composition, 2) Elucidate microbial gene-level mechanisms that predict mouse gut colonization dynamics, and 3) Profile microbial spatiotemporal organization and dynamics during gut colonization at the species and gene level to predict microbial community dynamics."
-
-[![The rules of microbiota colonization of the mammalian gut](/image/nsfmtm.svg){: style="
-    display: block;
-    margin: auto;
-    width: 650px;
-    max-width: 100%;
-    max-height: 100%;""}](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025515&HistoricalAwards=false)
-
 ## Collaborators
 
+### Labs
 - [Berger Lab - MIT](http://people.csail.mit.edu/bab/)
 - [Walt Lab - BWH, HMS, Wyss Institute](https://waltlab.bwh.harvard.edu/)
 - [Gerber Lab - BWH, HMS](https://gerber.bwh.harvard.edu/)
@@ -102,3 +90,13 @@ To answer our biological questions surrounding the microbiome we build statistic
 - [Active Adaptive Control Lab - MIT (Annaswamy)](http://aaclab.mit.edu/)
 - [Hultgren Lab - WUSTL](https://hultgrenlab.wustl.edu/)
 - [Bacterial Genomics Group - Broad Institute (Earl)](https://www.broadinstitute.org/bios/ashlee-earl)
+
+### Joint funded projects
+- **[The rules of microbiota colonization of the mammalian gut](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025515&HistoricalAwards=false):**
+A $2.9 Million NSF project with Co-PIs Georg Gerber and Harris Wang with Travis Gibson as a Co-Investigator - "This project has three main thrusts: 1) Learn microbial community-level rules that quantitatively predict population dynamics of mouse gut colonization and assess these rules across differing ranges of microbial diversity and composition, 2) Elucidate microbial gene-level mechanisms that predict mouse gut colonization dynamics, and 3) Profile microbial spatiotemporal organization and dynamics during gut colonization at the species and gene level to predict microbial community dynamics."
+[![The rules of microbiota colonization of the mammalian gut](/image/nsfmtm.svg){: style="
+    display: block;
+    margin: auto;
+    width: 650px;
+    max-width: 100%;
+    max-height: 100%;""}](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025515&HistoricalAwards=false)
