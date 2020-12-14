@@ -28,7 +28,7 @@ Gradient based optimization schemes are at the core of both adaptive control and
     width: 450px;
     display: block;
     margin: auto;" />
-    <figcaption> Figure 1: Higher order tuner demonstrating the ability to maintain stability during model training. At step 500 there is an abrupt change in the magnitude of the streaming input data to the model <button name="button" onclick="window.location.href='https://arxiv.org/abs/2005.01529'"><i class="far fa-file-pdf"></i> paper</button></figcaption>
+    <figcaption> Figure 1: Higher order tuner demonstrating the ability to maintain stability during model training. At step 500 there is an abrupt change in the magnitude of the training data <button name="button" onclick="window.location.href='https://arxiv.org/abs/2005.01529'"><i class="far fa-file-pdf"></i> paper</button></figcaption>
 </figure></p>
 
 ## Sample from our experimental research
