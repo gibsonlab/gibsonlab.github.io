@@ -24,4 +24,4 @@ permalink: /people/
 ---
 
 **Alumni**
-- Daniel Alfonset,  MIT UROP
+- Daniel Alfonsetti,  MIT UROP
