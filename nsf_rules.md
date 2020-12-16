@@ -12,7 +12,7 @@ permalink: /nsf_rules/
 <meta name="twitter:image" content="https://gibsonlab.io/image/nsfmtm.png"/>
 
 
-## The rules of microbiota colonization of the mammalian gut
+## NSF Grant: The rules of microbiota colonization of the mammalian gut
 
 **[Computational Postdoc Position Available](https://gerber.bwh.harvard.edu/jobs/)**
 
