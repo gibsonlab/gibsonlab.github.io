@@ -4,12 +4,11 @@ title: The rules of microbiota colonization of the mammalian gut
 permalink: /nsf_rules/
 ---
 
-
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:site" content="@GibsonNews" />
 <meta name="twitter:title" content="$2.9 Million NSF Award" />
 <meta name="twitter:description" content="The rules of microbiota colonization of the mammalian gut" />
-<meta name="twitter:image" content="https://gibsonlab.io/image/nsfmtm.png"/>
+<meta name="twitter:image" content="https://gibsonlab.io/image/nsfmtm_wide.png" />
 
 
 ## NSF Grant: The rules of microbiota colonization of the mammalian gut
