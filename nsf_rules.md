@@ -19,7 +19,7 @@ permalink: /nsf_rules/
 - Co-PI: [Harris Wang](http://wanglab.c2b2.columbia.edu/)
 - Co-I: [Travis Gibson](https://gibsonlab.io)
 
-[NSF Award Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025515&HistoricalAwards=false)
+[<i class="fa fa-external-link"></i> NSF Award ](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025515&HistoricalAwards=false)
 
 [![The rules of microbiota colonization of the mammalian gut](/image/nsfmtm.svg){: style="
     display: block;
