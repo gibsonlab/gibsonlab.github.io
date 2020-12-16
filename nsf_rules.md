@@ -7,8 +7,8 @@ permalink: /nsf_rules/
 
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:site" content="@GibsonNews" />
-<meta name="twitter:title" content="$2.9 Million NSF Award: The rules of microbiota colonization of the mammalian gut" />
-<meta name="twitter:description" content="This project has three main thrusts: 1) Learn microbial community-level rules that quantitatively predict population dynamics of mouse gut colonization and assess these rules across differing ranges of microbial diversity and composition, 2) Elucidate microbial gene-level mechanisms that predict mouse gut colonization dynamics, and 3) Profile microbial spatiotemporal organization and dynamics during gut colonization at the species and gene level to predict microbial community dynamics." />
+<meta name="twitter:title" content="$2.9 Million NSF Award" />
+<meta name="twitter:description" content="The rules of microbiota colonization of the mammalian gut" />
 <meta name="twitter:image" content="https://gibsonlab.io/image/nsfmtm.png"/>
 
 
