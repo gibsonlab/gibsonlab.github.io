@@ -8,7 +8,7 @@ permalink: /travisgibson/
     display: block;
     margin: auto;"}
 
-**Travis E. Gibson, PhD**
+**Travis Gibson, PhD**
 &nbsp;
 <a href="mailto:tegibson@bwh.harvard.edu" style="display: inline-block"><i class="fa fa-envelope-o"></i> tegibson@bwh.harvard.edu</a>
 &nbsp;
