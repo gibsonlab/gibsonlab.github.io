@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Travis E. Gibson
+title: Travis Gibson
 permalink: /travisgibson/
 ---
 ![Travis Gibson](/image/travisgibson.jpg){: style="width: 250px;
