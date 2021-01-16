@@ -2,10 +2,7 @@ title: Gibson Lab
 author:
   name: Travis Gibson
   email: tegibson@bwh.harvard.edu
-description: #> # this means to ignore newlines until "show_excerpts:"
-  #Write an awesome description for your new site here. You can edit this
-  #line in _config.yml. It will appear in your document head meta (for
-  #Google search results) and in your feed.xml site description.
+description: Gibson Lab at Harvard Medical School and Brigham and Women's Hospital is directed by Travis Gibson. The lab leverages tools from machine learning and control theory to study biological systems. Our primary system of study is the microbiome. Dr. Gibson received his PhD from MIT.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
