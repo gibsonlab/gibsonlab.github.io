@@ -5,7 +5,7 @@ permalink: /people/
 ---
 
 **Principal Investigator**
-- [Travis E. Gibson](/travisgibson/) <a href="mailto:tegibson@bwh.harvard.edu" style="display: inline-block"><i class="fa fa-envelope-o"></i> tegibson@bwh.harvard.edu</a>
+- [Travis Gibson](/travisgibson/) <a href="mailto:tegibson@bwh.harvard.edu" style="display: inline-block"><i class="fa fa-envelope-o"></i> tegibson@bwh.harvard.edu</a>
 
 
 **Adminsitrative Assistant(s)**
