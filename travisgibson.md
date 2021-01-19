@@ -17,7 +17,7 @@ permalink: /travisgibson/
 Instructor (Faculty), Department of Pathology \\
 Harvard Medical School
 
-Principle Investigator, Division of Computational Pathology \\
+Principal Investigator, Division of Computational Pathology \\
 Brigham and Women's Hospital
 
 Research Affiliate, Computer Science and Artifical Intelligence Lab \\
