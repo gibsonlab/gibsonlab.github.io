@@ -6,6 +6,8 @@ description: Gibson Lab at Harvard Medical School and Brigham and Women's Hospit
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
+google_analytics: G-T72G0671VR
+
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
