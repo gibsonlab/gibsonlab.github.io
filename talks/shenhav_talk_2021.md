@@ -8,7 +8,7 @@ permalink: /shenhav_talk_2021/
 <meta name="twitter:site" content="@GibsonNews" />
 <meta name="twitter:title" content="Liat Shenhav - Spatiotemporal modeling of microbial communities" />
 <meta name="twitter:description" content="February 22 4-5PM Eastern: click for zoom link and iCal" />
-<meta name="twitter:image" content="https://gibsonlab.io/talks/liat_twitter_small.png" />
+<meta name="twitter:image" content="https://gibsonlab.io/talks/liat_twitter_small2.png" />
 
 ## ***Spatiotemporal modeling of microbial communities***
 
