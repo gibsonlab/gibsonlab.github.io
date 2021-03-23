@@ -9,7 +9,7 @@ permalink: /stringer_talk_2021/
 <meta name="twitter:title" content="Carsen Stringer - Cellpose: a generalist algorithm for anatomical
 segmentation" />
 <meta name="twitter:description" content="March 29 4-5PM Eastern: click for Zoom link and iCal" />
-<meta name="twitter:image" content="https://gibsonlab.io/talks/stringer_twitter.png" />
+<meta name="twitter:image" content="https://gibsonlab.io/talks/stringer.png" />
 
 ## ***Cellpose: a generalist algorithm for anatomical segmentation***
 
