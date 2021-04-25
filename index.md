@@ -18,14 +18,15 @@ description: Gibson Lab at Harvard Medical School and Brigham and Women's Hospit
 <meta name="twitter:image" content="https://gibsonlab.io/image/twitter_gibsonlab-01.png"/>
 
 
-<div style="position:relative;padding:32px;text-align:center">
+<div style="align:center;padding:32px;text-align:center">
 
 <img  src="/image/gibson_lab_logo_bw_outlined_cropped_html.svg" alt="Gibson Lab Logo" width=325pt >
 
 <p>
 <h3> control theory </h3>
 <h3> statistical machine learning  </h3>
-<h3> experimental biology </h3></p>
+<h3> experimental biology </h3>
+</p>
 
 <!--
 <p align=center><a href="https://comp-path.bwh.harvard.edu/">Division of Computational Pathology </a></p>
@@ -40,6 +41,7 @@ description: Gibson Lab at Harvard Medical School and Brigham and Women's Hospit
       <a href="https://www.google.com/maps/place/Building+for+Transformative+Medicine+at+Brigham+and+Women's+Hospital/@42.3353661,-71.1087175,15z/data=!4m2!3m1!1s0x0:0x35376a566e389c7d?sa=X&ved=2ahUKEwifjKzTzcztAhUPZd8KHSK7D6sQ_BIwCnoECBkQBQ" style="display: inline-block">
       <i class="fas fa-map-marker-alt"></i></a>
       </p>
+
 </div>
 
 
