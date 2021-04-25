@@ -6,6 +6,8 @@ $base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symb
 $code-font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
+$font-weight-bold: 600 !default;
+
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
@@ -46,5 +48,6 @@ $on-large:         $on-laptop !default;
   "minima/custom-variables", // Hook to override predefined variables.
   "minima/base",             // Defines element resets.
   "minima/layout",           // Defines structure and style based on CSS selectors.
-  "minima/custom-styles"     // Hook to override existing styles.
+  "minima/custom-styles",     // Hook to override existing styles.
+  "minima/rouge"
 ;

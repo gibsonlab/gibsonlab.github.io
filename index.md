@@ -8,6 +8,7 @@
 layout: default
 title: Home
 permalink: /
+description: Gibson Lab at Harvard Medical School and Brigham and Women's Hospital. We leverages tools from machine learning and control theory to study biological systems. Our primary system of study is the microbiome. The Principal Investigator of the lab is Travis Gibson (PhD).
 ---
 
 <meta name="twitter:card" content="summary" />
@@ -17,22 +18,20 @@ permalink: /
 <meta name="twitter:image" content="https://gibsonlab.io/image/twitter_gibsonlab-01.png"/>
 
 
-<div align="center">
-<img  src="/image/main.svg" alt="Gibon Lab" width=325pt >
-</div>
+<div style="position:relative;padding:32px;text-align:center">
 
-<p align=center> <b> control theory </b></p>
+<img  src="/image/main.svg" alt="Gibson Lab Logo" width=325pt >
 
-<p align=center> <b> statistical machine learning  </b></p>
-
-<p align=center> <b> experimental biology </b></p>
+<p>
+<h3> control theory </h3>
+<h3> statistical machine learning  </h3>
+<h3> experimental biology </h3></p>
 
 <!--
 <p align=center><a href="https://comp-path.bwh.harvard.edu/">Division of Computational Pathology </a></p>
 <p align=center> <a href="https://www.brighamandwomens.org/">Brigham and Women's Hospital</a></p>
 <p align=center> <a href="https://hms.harvard.edu/">Harvard Medical School</a></p>
 -->
-<span style="display: block; margin-bottom: 1.5em"></span>
 
 <p align=center>
       <a href="https://github.com/GibsonLab" style="display: inline-block"><i class="fa fa-github fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
@@ -41,6 +40,9 @@ permalink: /
       <a href="https://www.google.com/maps/place/Building+for+Transformative+Medicine+at+Brigham+and+Women's+Hospital/@42.3353661,-71.1087175,15z/data=!4m2!3m1!1s0x0:0x35376a566e389c7d?sa=X&ved=2ahUKEwifjKzTzcztAhUPZd8KHSK7D6sQ_BIwCnoECBkQBQ" style="display: inline-block">
       <i class="fas fa-map-marker-alt"></i></a>
       </p>
+</div>
+
+
 
 <!-- <span style="display: block; margin-bottom: 3em"></span>
 <div style="   background: WhiteSmoke; padding: 10px; border-radius:10px; border: 1px solid Gray; width: 85%; margin: auto">

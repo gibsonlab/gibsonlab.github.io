@@ -2,6 +2,7 @@
 layout: default
 title: The rules of microbiota colonization of the mammalian gut
 permalink: /nsf_rules/
+description: The rules of microbiota colonization of the mammalian gut (NSF).
 ---
 
 <meta name="twitter:card" content="summary_large_image" />

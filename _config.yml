@@ -2,7 +2,7 @@ title: Gibson Lab
 author:
   name: Travis Gibson
   email: tegibson@bwh.harvard.edu
-description: Gibson Lab at Harvard Medical School and Brigham and Women's Hospital is directed by Travis Gibson. The lab leverages tools from machine learning and control theory to study biological systems. Our primary system of study is the microbiome. Dr. Gibson received his PhD from MIT.
+description: Gibson Lab at Harvard Medical School and Brigham and Women's Hospital. We leverages tools from machine learning and control theory to study biological systems. Our primary system of study is the microbiome. The Principal Investiagor of the lab is Travis Gibson.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -12,7 +12,7 @@ google_analytics: G-T72G0671VR
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%b %-d, %Y"
-
+  skin: classic
   # generate social links in footer
   social_links:
     # twitter: jekyllrb

@@ -2,8 +2,9 @@
 layout: default
 title: Publications
 permalink: /publications/
+description: Publications from the Gibson Lab
 ---
-<h3>Selected representative work from the lab (see also <a href="https://scholar.google.com/citations?user=epg4RggAAAAJ&hl=en"><i class="fa fa-graduation-cap"></i> Google Scholar </a>)</h3>
+### Selected representative work from the lab (see also <a href="https://scholar.google.com/citations?user=epg4RggAAAAJ&hl=en"><i class="fa fa-graduation-cap"></i> Google Scholar </a>)
 
 <ul>
 {% for pub in site.data.publications %}
