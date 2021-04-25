@@ -20,7 +20,7 @@ description: Gibson Lab at Harvard Medical School and Brigham and Women's Hospit
 
 <div style="position:relative;padding:32px;text-align:center">
 
-<img  src="/image/main.svg" alt="Gibson Lab Logo" width=325pt >
+<img  src="/image/gibson_lab_logo_bw_outlined_cropped_html.svg" alt="Gibson Lab Logo" width=325pt >
 
 <p>
 <h3> control theory </h3>
