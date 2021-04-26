@@ -133,6 +133,10 @@ a {
   }
 }
 
+b,
+strong {
+  font-weight: $font-weight-bold;
+}
 
 /**
  * Blockquotes
