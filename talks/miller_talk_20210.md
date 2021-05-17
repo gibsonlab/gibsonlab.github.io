@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Carsen Stringer ABC Talk
+title: Jeff Miller ABC Talk
 permalink: /miller_talk_2021/
 ---
 
