@@ -1,7 +1,10 @@
 ---
 layout: default
 title: Jeff Miller ABC Talk
+description: Inference in generalized bilinear models, May 17th, click for zoom link and iCal
+image: http://jwmi.github.io/images/my-photo-medres-crop.jpg
 permalink: /miller_talk_2021/
+
 ---
 
 ## ***Inference in generalized bilinear models***
