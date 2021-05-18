@@ -4,6 +4,9 @@ author:
   name: Travis Gibson
   email: tegibson@bwh.harvard.edu
 description: Gibson Lab at Harvard Medical School and Brigham and Women's Hospital. We leverages tools from machine learning and control theory to study biological systems. PI - Travis Gibson.
+logo: /image/gibson_lab_logo_bw_outlined_cropped_html.svg
+
+
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -55,6 +58,13 @@ header_pages:
  - people.md
  - positions.md
  - publications.md
+
+
+social:
+  name: Gibson Lab
+  links:
+    - https://twitter.com/GibsonNews
+    - https://github.com/GibsonLab
 
 
 # Build settings
