@@ -7,6 +7,7 @@
 #
 layout: default
 title: Home
+tagline: Harvard Medical School
 permalink: /
 description: Gibson Lab at Harvard Medical School and Brigham and Women's Hospital. We leverages tools from machine learning and control theory to study biological systems. Our primary system of study is the microbiome. The Principal Investigator of the lab is Travis Gibson (PhD).
 ---
