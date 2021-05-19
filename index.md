@@ -10,7 +10,7 @@ layout: default
 # tagline: Harvard Medical School
 permalink: /
 description: Gibson Lab at Harvard Medical School and Brigham and Women's Hospital. We leverages tools from machine learning and control theory to study biological systems. PI - Travis Gibson.
-image: /image/twitter_gibsonlab-01.png
+image: /image/gibson_lab_logo_bw_outlined_cropped_html_github_black_artboard_1200_628-01.png
 twitter:
   username: gibsonnews
   card: summary
