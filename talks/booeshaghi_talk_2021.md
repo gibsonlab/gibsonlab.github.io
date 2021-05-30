@@ -26,7 +26,7 @@ Zoom link <i class="fa fa-external-link"></i> <https://mit.zoom.us/j/97776274563
 
 
 **Sina Booeshaghi** \\
-Department of Mechanical Engineering \\
+Department of Mechanical Engineering\\
 California Institute of Technology
 
 **Abstract**: We describe algorithms that are used in a new suite of tools, kallisto bustools (Melsted, Booeshaghi, et al.), for accurate and efficient preprocessing of single-cell RNA-seq. Some novel algorithmic developments include stream-wise processing of sequence records for constant-memory barcode error correction and UMI counting, UMI collapsing that leverages sequence diversity for fast count assignment, and nascent/mature mRNA read identification for RNA velocity. We demonstrate these tools on a large-scale spatially-resolved single-cell isoform atlas of the mouse primary motor cortex and briefly discuss extensions of these tools to COVID-19 sequencing-based diagnostics.
