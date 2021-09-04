@@ -14,6 +14,6 @@ Current positions/projects potentially suitable for all ranks
 - Statistical machine learning models for biological time series and dynamical systems.
 - Developing time and quality aware strain tracking models to study the colonization dynamics of Uropathogenic E. Coli.
 
-We also have an opening for a research associate who wants to be 50/50 wetlab/drylab at the bench developing single molecule array assays (SIMOA) while also learning about statistical machine learning and computational biology.
+We also have an opening for a research associate who wants to be 50/50 wetlab/drylab
 
-- Research Associate 50/50 time with the Gibson Lab and the Walt Lab developing SIMOA assays for the detection of cytokines in feces. The candidate will also be trained in bioinformatics, statistical machine learning, and computational biology.
+- Research Associate 50/50 time with the Gibson Lab and the [Walt Lab](https://waltlab.bwh.harvard.edu/) developing SIMOA assays for the detection of cytokines in feces. The candidate will also be trained in bioinformatics, statistical machine learning, and computational biology.
