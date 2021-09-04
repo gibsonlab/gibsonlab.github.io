@@ -14,7 +14,7 @@ description: The rules of microbiota colonization of the mammalian gut (NSF).
 
 ## NSF Grant: The rules of microbiota colonization of the mammalian gut
 
-**[Computational Postdoc Position Available](https://gerber.bwh.harvard.edu/jobs/)**
+**[Positions Available](/positions/)**
 
 - PI: [Georg K Gerber](https://gerber.bwh.harvard.edu/)
 - Co-PI: [Harris Wang](http://wanglab.c2b2.columbia.edu/)

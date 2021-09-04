@@ -10,3 +10,8 @@
 figure figcaption {
     text-align: left;
 }
+
+a.home {color:gray;}
+a.home:link {text-decoration: none; color: grey;}
+a.home:visited {text-decoration: none; color: gray;}
+a.home:hover {text-decoration: underline; color: black;}

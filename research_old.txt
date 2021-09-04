@@ -79,3 +79,24 @@ To answer our biological questions surrounding the microbiome we build statistic
     </figcaption>
 </figure>
 </div>
+
+## Collaborators
+
+### Labs
+- [Berger Lab - MIT](http://people.csail.mit.edu/bab/)
+- [Walt Lab - BWH, HMS, Wyss Institute](https://waltlab.bwh.harvard.edu/)
+- [Gerber Lab - BWH, HMS](https://gerber.bwh.harvard.edu/)
+- [Wang Lab - Columbia](http://wanglab.c2b2.columbia.edu/)
+- [Active Adaptive Control Lab - MIT (Annaswamy)](http://aaclab.mit.edu/)
+- [Hultgren Lab - WUSTL](https://hultgrenlab.wustl.edu/)
+- [Bacterial Genomics Group - Broad Institute (Earl)](https://www.broadinstitute.org/bios/ashlee-earl)
+
+### Joint funded projects
+- **[The rules of microbiota colonization of the mammalian gut](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025515&HistoricalAwards=false):**
+A $2.9 Million NSF project with Co-PIs Georg Gerber and Harris Wang with Travis Gibson as a Co-Investigator - "This project has three main thrusts: 1) Learn microbial community-level rules that quantitatively predict population dynamics of mouse gut colonization and assess these rules across differing ranges of microbial diversity and composition, 2) Elucidate microbial gene-level mechanisms that predict mouse gut colonization dynamics, and 3) Profile microbial spatiotemporal organization and dynamics during gut colonization at the species and gene level to predict microbial community dynamics."
+[![The rules of microbiota colonization of the mammalian gut](/image/nsfmtm.svg){: style="
+    display: block;
+    margin: auto;
+    width: 650px;
+    max-width: 100%;
+    max-height: 100%;""}](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025515&HistoricalAwards=false)
