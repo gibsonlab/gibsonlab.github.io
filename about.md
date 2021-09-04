@@ -28,9 +28,9 @@ MIT Stata Center (32-G570)\\
 
 
 ### Funding
-- **NIH R35GM143056**, 2021-2025,  *$2.2M* - [Machine Learning and Control Principles for Computational Biology](/r35/)
-- **NIH R21AI154075**, 2021-2022, *$450K* - [Tracking the microbiome: purpose-built machine learning tools for tracking microbial strains over time](/r21_tracking/)
-- **NSF MTM2**, 2020-2024,  *$2.9M* - [The rules of microbiota colonization of the mammalian gut](/nsf_rules/)
+- **NIH R35GM143056**, 2021-2026,  *$2.2M* - [Machine Learning and Control Principles for Computational Biology](/r35/)
+- **NIH R21AI154075**, 2021-2023, *$450K* - [Tracking the microbiome: purpose-built machine learning tools for tracking microbial strains over time](/r21_tracking/)
+- **NSF MTM2**, 2020-2025,  *$2.9M* - [The rules of microbiota colonization of the mammalian gut](/nsf_rules/)
 
 ### Collaborators
 
