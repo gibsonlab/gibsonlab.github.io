@@ -1,9 +1,19 @@
+-   title: Intrinsic instability of the dysbiotic microbiome revealed through dynamical systems inference at scale
+    authors: T.E. Gibson, Y. Kim, S. Acharya, D.E. Kaplan, N. DiBenedetto, R. Lavin, B. Berger, J.R. Allegretti, L. Bry, G.K. Gerber
+    where: bioRxiv
+    year: 2021
+    biorxiv: https://doi.org/10.1101/2021.12.14.469105
+    pdf: https://www.biorxiv.org/content/10.1101/2021.12.14.469105v1.full.pdf
+    link: https://doi.org/10.1101/2021.12.14.469105
+    github: https://github.com/gerberlab/MDSINE2_Paper
+
 -   title: Accelerated Learning with Robustness to Adversarial Regressors
     authors: J.E. Gaudio, A.M. Annaswamy, J.M. Moreu, M.A. Bolender, T.E. Gibson
-    year: 2020
-    where: arXiv
+    year: 2021
+    where: Conference on Learning for Dynamics and Control
     arxiv: https://arxiv.org/abs/2005.01529
-    link: https://arxiv.org/abs/2005.01529
+    link: http://proceedings.mlr.press/v144/gaudio21a.html
+    pdf: http://proceedings.mlr.press/v144/gaudio21a/gaudio21a.pdf
 
 -   title: Chronostrain&#58; Sequence quality and time aware strain tracking with shotgun metagenomic data
     authors: Y. Kim, S. Acharya, D. Alfonsetti, G.K. Gerber, B. Berger, T.E. Gibson
