@@ -39,6 +39,17 @@ twitter:
   <a class="home" href="https://www.google.com/maps/place/Building+for+Transformative+Medicine+at+Brigham+and+Women's+Hospital/@42.3353661,-71.1087175,15z/data=!4m2!3m1!1s0x0:0x35376a566e389c7d?sa=X&ved=2ahUKEwifjKzTzcztAhUPZd8KHSK7D6sQ_BIwCnoECBkQBQ" style="display: inline-block">
   <i class="fas fa-map-marker-alt"></i></a>
 </p>
+</div>
+
+
+
+**News** (updated 2021.12)
+- Pre-print ["Intrinsic instability of the dysbiotic microbiome revealed through dynamical systems inference at scale"](https://doi.org/10.1101/2021.12.14.469105)
+- $2.2 Million NIH grant ["Machine learning and control principles for Computational Biology"](https://gibsonlab.io/r35/)
+- $450,000 NIH grant ["Tracking the microbiome: purpose-built machine learning tools for tracking microbial strains over tim"](https://gibsonlab.io/r21_tracking/)
+- $2.9 Million NSF grant: ["MTM 2: The rules of microbiota colonization of the mammalian gut"](https://gibsonlab.io/nsf_rules/)
+
+
 
 <!--
 <p align=center><a href="https://comp-path.bwh.harvard.edu/">Division of Computational Pathology </a></p>
@@ -54,7 +65,7 @@ twitter:
       <i class="fas fa-map-marker-alt"></i></a>
       </p>
 -->
-</div>
+
 
 <!--
 <span style="display: block; margin-bottom: 3em"></span>
