@@ -44,6 +44,7 @@ twitter:
 <div markdown="1" style="background: #fbfbfb; padding: 10px; border-radius:5px; border: 1px solid #ebebeb">
 
 **News** (updated 2021.12)
+- We are [hiring!](/positions/)
 - Pre-print ["Intrinsic instability of the dysbiotic microbiome revealed through dynamical systems inference at scale"](https://doi.org/10.1101/2021.12.14.469105)
 - $2.2 Million NIH grant ["Machine learning and control principles for Computational Biology"](https://gibsonlab.io/r35/)
 - $450,000 NIH grant ["Tracking the microbiome: purpose-built machine learning tools for tracking microbial strains over time"](https://gibsonlab.io/r21_tracking/)
