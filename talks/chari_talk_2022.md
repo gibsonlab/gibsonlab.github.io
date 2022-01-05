@@ -4,7 +4,7 @@ title: Tara Chari ABC Talk
 description: The Specious Art of Single-Cell Genomics
 tageline: The Specious Art of Single-Cell Genomics
 permalink: /chari_talk_2022/
-image: /talks/ABC_Chari.ics
+image: /talks/Tara_head.jpeg
 twitter:
   username: gibsonnews
   card: summary
