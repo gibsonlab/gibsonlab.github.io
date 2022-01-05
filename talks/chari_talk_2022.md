@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tara Chari ABC Talk
+title: Tara Chari (Caltech) ABC Talk
 description: The Specious Art of Single-Cell Genomics
 tageline: The Specious Art of Single-Cell Genomics
 permalink: /chari_talk_2022/
