@@ -12,7 +12,7 @@ twitter:
 
 ## ***The Specious Art of Single-Cell Genomics***
 
-![Tara Chari](The Specious Art of Single-Cell Genomics){: style="width: 300px;
+![Tara Chari](http://www.qianlab.caltech.edu/Tara_head.jpg){: style="width: 300px;
     border-radius: 5%;
     display: block;
     margin: 10pt;
