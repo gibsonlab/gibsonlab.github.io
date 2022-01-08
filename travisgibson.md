@@ -25,7 +25,7 @@ Brigham and Women's Hospital
 Research Affiliate \\
 Computer Science and Artifical Intelligence Lab \\
 Massachusetts Institute of Technology
- 
+
 Associated Scientist \\
 Infectious Disease and Microbiome Program \\
 The Broad Insitute of MIT and Harvard
