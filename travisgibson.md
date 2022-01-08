@@ -26,6 +26,9 @@ Research Affiliate \\
 Computer Science and Artifical Intelligence Lab \\
 Massachusetts Institute of Technology
 
+Associated Scientist \\
+Infectious Disease and Microbiome Program \\
+The Broad Insitute of MIT and Harvard
 
 Primary Office : <a href="https://www.google.com/maps/place/Building+for+Transformative+Medicine+at+Brigham+and+Women's+Hospital/@42.3353661,-71.1087175,15z/data=!4m2!3m1!1s0x0:0x35376a566e389c7d?sa=X&ved=2ahUKEwifjKzTzcztAhUPZd8KHSK7D6sQ_BIwCnoECBkQBQ" style="display: inline-block">
 <i class="fas fa-map-marker-alt"></i>
