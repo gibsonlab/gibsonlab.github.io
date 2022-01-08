@@ -14,7 +14,7 @@ description: Dr. Travis Gibson is a Principal Investigator at Brigham and Women'
 <a href="mailto:tegibson@bwh.harvard.edu" style="display: inline-block"><i class="fa fa-envelope-o"></i> tegibson@bwh.harvard.edu</a> \\
 <a href="https://scholar.google.com/citations?user=epg4RggAAAAJ&hl=en"><i class="fa fa-graduation-cap"></i> Google Scholar </a>
 
-Instructor\\
+Instructor (Assistant Professor 2022)\\
 Department of Pathology \\
 Harvard Medical School
 
@@ -25,7 +25,7 @@ Brigham and Women's Hospital
 Research Affiliate \\
 Computer Science and Artifical Intelligence Lab \\
 Massachusetts Institute of Technology
- 
+
 Associated Scientist \\
 Infectious Disease and Microbiome Program \\
 The Broad Insitute of MIT and Harvard
