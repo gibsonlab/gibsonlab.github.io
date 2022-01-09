@@ -40,7 +40,7 @@ twitter:
   <i class="fas fa-map-marker-alt"></i></a>
 </p>
 </div>
-<div markdown="1" style="padding-left: 50px; padding-right: 50px">
+<div markdown="1" style="padding-left: 5%; padding-right: 5%">
 <div markdown="1" style="background: #fbfbfb; padding: 10px; border-radius:5px; border: 1px solid #ebebeb">
 
 **News** (updated 2021.12)
