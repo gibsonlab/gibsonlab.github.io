@@ -4,7 +4,7 @@ title: Travis Gibson
 permalink: /travisgibson/
 description: Dr. Travis Gibson is a Principal Investigator at Brigham and Women's Hospital, A Faculty Member at Harvard Medical School, and a Research Affiliate at the Massachusetts Institute of Technology. Dr. Gibson received his PhD from MIT and had postdoctoral training and BWH and HMS.
 ---
-![Travis Gibson](/image/travis_e_gibson_phd.jpg){: style="width: 250px;
+![Travis Gibson](/image/gibson_head_600.png){: style="width: 250px;
     border-radius: 5%;
     display: block;
     margin: auto;
