@@ -5,10 +5,10 @@ permalink: /positions/
 description: Positions available in the Gibson Lab
 ---
 
+Official announcements for openings
+- [Postdoctoral Fellow: Computational Biology (ML4Bio)](/files/ml4bio_postdoc.pdf)
 
-
-
-We are always looking to grow the lab. If you are interested in our work but not one of the following specific openings then still reach out (this list will not always reflect all of our openings). Also please don't hesitate to reach out because you think your background may not work. We need engineering, math, computer science, ecology, statistics, chemistry, microbiology, and much more to get these projects off the ground. See our [funding](/about/#funding) for more information on the grants supporting this work. Interested graduate students, postdocs, research associates or rotation students should send cover letter and cv to <a href="mailto:tegibson@bwh.harvard.edu">tegibson@bwh.harvard.edu</a>. For specific openings see below.
+We are always looking to grow the lab. If you are interested in our work but not one of the above announcements or the following openings below then still reach out (this list will not always reflect all of our openings). Also please don't hesitate to reach out because you think your background may not work. We need engineering, math, computer science, ecology, statistics, chemistry, microbiology, and much more to get these projects off the ground. See our [funding](/about/#funding) for more information on the grants supporting this work. Interested graduate students, postdocs, research associates or rotation students should send cover letter and cv to <a href="mailto:tegibson@bwh.harvard.edu">tegibson@bwh.harvard.edu</a>. For specific openings see below.
 
 Current positions/projects potentially suitable for all ranks
 
