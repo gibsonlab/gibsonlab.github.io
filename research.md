@@ -8,10 +8,11 @@ description: An overview of the Gibson Lab research and projects.
 
 We leverage tools from machine learning and control to understand biological systems.  Control theoretic concepts are integrated both in the design of our optimization schemes and statistical machine learning models, as well as in the design of our *in vitro* and *in vivo* experiments. Current and future projects include
 * Statistical learning applied to microbial dynamics (Bayesian nonparametrics, layered latent state-space models)
+* Time-series "omics" (metagenomics, transcriptomics, and metabolomics)
+* Host-Microbiome interactions
 * Theoretical foundations at the intersection of machine learning and control
 * Genetically engineering and controlling a microbial consortia
-* Host-Microbiome interactions
-* Time-series "omics" (metagenomics, transcriptomics, and metabolomics)
+
 
 
 ## Samples from our modeling research
