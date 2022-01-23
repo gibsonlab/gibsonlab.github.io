@@ -26,11 +26,12 @@ twitter:
 <img  src="/image/gibson_lab_logo_bw_outlined_cropped_html.svg" alt="Gibson Lab Logo" width=325pt>
 
 <p>
-<h3> control theory </h3>
-<h3> statistical machine learning  </h3>
-<h3> experimental biology </h3> </p>
-
-
+<h3> Machine learning and control theory to understand biological systems</h3>
+<!--
+#<h3> statistical machine learning  </h3>
+#<h3> experimental biology </h3>
+-->
+</p>
 
 <p style="line-height:1.8">
 <a class="home" href="https://github.com/GibsonLab" style="display: inline-block"><i class="fa fa-github fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
