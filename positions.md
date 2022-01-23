@@ -12,10 +12,12 @@ We are always looking to grow the lab. If you are interested in our work but not
 
 Current positions/projects potentially suitable for all ranks
 
-- Statistical machine learning models for biological time series and dynamical systems.
-- Developing time and quality aware strain tracking models to study the colonization dynamics of Uropathogenic E. Coli.
+- Statistical machine learning models for biological time-series and dynamical systems.
+- Developing time and quality aware strain tracking models to study the colonization dynamics of pathogens.
 - Developing robust microbial consortia (using putative interactions learned from our dynamical systems models and using control theory principles) and testing them in gnotobiotic mice.
 - Provably stable and robust gradient descent algorithms for optimizing differentiable ML models with applications in Healthcare and Biology.
+- Methods for integrating multiple data modalities and prior knowledge (from other studies or
+databases) in time-series models.
 
 
 We also have an opening for someone who wants to have some wet lab experience
