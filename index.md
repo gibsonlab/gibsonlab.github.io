@@ -21,27 +21,32 @@ twitter:
 <meta name="twitter:image" content="https://gibsonlab.io/image/twitter_gibsonlab-01.png"/>
 
 
-<div style="align:center;padding:32px;text-align:center">
+<div style="align:center;padding-top:32px;text-align:center">
 
-<img  src="/image/gibson_lab_logo_bw_outlined_cropped_html.svg" alt="Gibson Lab Logo" width=325pt>
+<a href="https://gibsonlab.io"><img  src="/image/gibson_lab_logo_bw_outlined_cropped_html.svg" alt="Gibson Lab Logo" width=325pt></a>
+
+
+
 
 <p>
-<h3> Machine learning and control theory to understand biological systems</h3>
-Harvard Medical School <br>
-Brigham & Women's Hospital
+<h3> Machine learning and control theory for biological systems</h3>
+<!--
+Harvard Medical School <b3
+Brigham & Women's Hospital <br>
+-->
+<img  src="/image/hmslogo.svg" alt="HMS Logo" height=50pt> <br>
+<img  src="/image/bwh-logo.svg" alt="BWH Logo" height=50pt style="padding-top:15px">
+
+
 <!--
 #<h3> statistical machine learning  </h3>
 #<h3> experimental biology </h3>
 -->
 </p>
 
-<p style="line-height:1.8">
-<a class="home" href="https://github.com/GibsonLab" style="display: inline-block"><i class="fa fa-github fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
-  <a class="home" href="https://twitter.com/GibsonNews" style="display: inline-block"><i class="fa fa-twitter fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
-  <a class="home" href="mailto:tegibson@bwh.harvard.edu" style="display: inline-block"><i class="fa fa-envelope-o fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
-  <a class="home" href="https://www.google.com/maps/place/Building+for+Transformative+Medicine+at+Brigham+and+Women's+Hospital/@42.3353661,-71.1087175,15z/data=!4m2!3m1!1s0x0:0x35376a566e389c7d?sa=X&ved=2ahUKEwifjKzTzcztAhUPZd8KHSK7D6sQ_BIwCnoECBkQBQ" style="display: inline-block">
-  <i class="fas fa-map-marker-alt"></i></a>
-</p>
+
+
+
 </div>
 <div markdown="1" style="padding-left: 5%; padding-right: 5%">
 <div markdown="1" style="background: #fbfbfb; padding: 10px; border-radius:5px; border: 1px solid #ebebeb">
@@ -53,6 +58,20 @@ Brigham & Women's Hospital
 - $450,000 NIH grant ["Tracking the microbiome: purpose-built machine learning tools for tracking microbial strains over time"](https://gibsonlab.io/r21_tracking/)
 - $2.9 Million NSF grant: ["MTM 2: The rules of microbiota colonization of the mammalian gut"](https://gibsonlab.io/nsf_rules/)
 
+
+
+</div>
+
+
+
+<div style="align:center;padding-top:20px;text-align:center">
+<p style="line-height:1.8">
+<a class="home" href="https://github.com/GibsonLab" style="display: inline-block"><i class="fa fa-github fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
+  <a class="home" href="https://twitter.com/GibsonNews" style="display: inline-block"><i class="fa fa-twitter fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
+  <a class="home" href="mailto:tegibson@bwh.harvard.edu" style="display: inline-block"><i class="fa fa-envelope-o fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
+  <a class="home" href="https://www.google.com/maps/place/Building+for+Transformative+Medicine+at+Brigham+and+Women's+Hospital/@42.3353661,-71.1087175,15z/data=!4m2!3m1!1s0x0:0x35376a566e389c7d?sa=X&ved=2ahUKEwifjKzTzcztAhUPZd8KHSK7D6sQ_BIwCnoECBkQBQ" style="display: inline-block">
+  <i class="fas fa-map-marker-alt"></i></a>
+</p>
 </div>
 </div>
 
