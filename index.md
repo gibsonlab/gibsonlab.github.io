@@ -27,6 +27,8 @@ twitter:
 
 <p>
 <h3> Machine learning and control theory to understand biological systems</h3>
+Harvard Medical School <br>
+Brigham & Women's Hospital
 <!--
 #<h3> statistical machine learning  </h3>
 #<h3> experimental biology </h3>
