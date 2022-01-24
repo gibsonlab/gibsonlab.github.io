@@ -8,12 +8,12 @@ description: Gibson Lab - Computational Biology Postdoctoral Fellow Opening
 
 <div style="align:center;text-align:center">
 
-<img  src="/image/hmslogo.svg" alt="HMS Logo" height=50pt>
+<img  src="/image/hmslogo.svg" alt="HMS Logo" height=50pt> &nbsp;&nbsp;
 <img  src="/image/bwh-logo.svg" alt="BWH Logo" height=50pt> <br><br>
 
 </div>
 
-### Computational Biology (ML4Bio) Postdoctoral Fellow
+### Computational Biology (ML4Bio) Postdoctoral Fellow [(pdf version of announcement)](/files/ml4bio_postdoc.pdf)
 
 Opening for a Postdoctoral Research Fellow to join the Gibson Lab <https://gibsonlab.io> at Harvard Medical School and Brigham and Women's Hospital. We leverage tools from machine learning and control theory to understand biological systems. Control theoretic concepts are integrated both in the design of our optimization schemes and statistical machine learning models, as well as in the design of our in vitro and in vivo experiments. Our main area of focus is the microbiome and microbial dynamics more specifically. Applications include the design of bacteriotherapies (bugs-as-drugs), developing methods to learn microbial dynamics at ecosystem-scale, studying the impact of phages on microbial communities, methods for tracking low abundance pathogens, and methods for integrating multiple data modalities and prior knowledge (from other studies or databases) in time-series models. We focus on Bayesian methods that propagate measurement uncertainty throughout the model so that we can access confidence in model parameters and to help prioritize follow-up experiments. ML techniques applied include variational inference, Bayesian non-parametric models, and relaxation techniques (for making discrete models differentiable).
 

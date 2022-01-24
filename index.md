@@ -34,8 +34,8 @@ twitter:
 Harvard Medical School <b3
 Brigham & Women's Hospital <br>
 -->
-<img  src="/image/hmslogo.svg" alt="HMS Logo" height=50pt> <br>
-<img  src="/image/bwh-logo.svg" alt="BWH Logo" height=50pt style="padding-top:15px">
+<a href="https://hms.harvard.edu/"><img  src="/image/hmslogo.svg" alt="HMS Logo" height=50pt></a> <br>
+<a href="https://www.brighamandwomens.org/research"><img  src="/image/bwh-logo.svg" alt="BWH Logo" height=50pt style="padding-top:15px"></a>
 
 
 <!--
