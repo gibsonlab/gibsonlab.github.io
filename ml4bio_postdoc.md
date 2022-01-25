@@ -2,7 +2,11 @@
 layout: default
 title: Postdoctoral Fellow Opening
 permalink: /ml4bio_postdoc/
-description: Gibson Lab - Computational Biology Postdoctoral Fellow Opening
+description: Computational Biology Postdoctoral Fellow Opening
+image: /image/ml4bio_postdoc_announcement.png
+twitter:
+  username: gibsonnews
+  card: summary_large_image
 ---
 
 
