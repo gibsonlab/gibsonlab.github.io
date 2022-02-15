@@ -58,8 +58,11 @@ Brigham & Women's Hospital <br>
 - $450,000 NIH grant ["Tracking the microbiome: purpose-built machine learning tools for tracking microbial strains over time"](https://gibsonlab.io/r21_tracking/)
 - $2.9 Million NSF grant: ["MTM 2: The rules of microbiota colonization of the mammalian gut"](https://gibsonlab.io/nsf_rules/)
 
-
-
+**Upcoming Talks**
+- March 11, [Microbial Sciences Initiative Chalk Talk](https://calendar.college.harvard.edu/event/2022_MSIChalkTalk_0311?utm_campaign=widget&utm_medium=widget&utm_source=Harvard+College+Calendar) - Harvard
+- May 6, [Mathematical Biology and Ecology Seminar](https://www.maths.ox.ac.uk/events/list/659) - Oxford
+- May 11, [Models Inference and Algorithms (MIA)](https://www.broadinstitute.org/talks/spring-2022/mia) - Broad Institute
+- June 8-9, [2022 Microbiome Data Congress](https://www.microbiome-data.com/program) - Boston
 </div>
 
 
