@@ -23,6 +23,9 @@ twitter:
 
 <div style="align:center;padding-top:32px;text-align:center">
 
+
+
+
 <a href="https://gibsonlab.io"><img  src="/image/gibson_lab_logo_bw_outlined_cropped_html.svg" alt="Gibson Lab Logo" width=325pt></a>
 
 
@@ -34,9 +37,9 @@ twitter:
 Harvard Medical School <b3
 Brigham & Women's Hospital <br>
 -->
-<a href="https://hms.harvard.edu/"><img  src="/image/hmslogo.svg" alt="HMS Logo" height=50pt></a> <br>
-<a href="https://www.brighamandwomens.org/research"><img  src="/image/bwh-logo.svg" alt="BWH Logo" height=50pt style="padding-top:15px"></a>
-
+<a href="https://hms.harvard.edu/"><img  src="/image/hmslogo.svg" alt="HMS Logo" height=35pt style="padding:5px"></a> &nbsp;
+<a href="https://www.brighamandwomens.org/research"><img  src="/image/bwh-logo.svg" alt="BWH Logo" height=35pt style="padding:5px"></a> &nbsp;
+<a href="https://www.broadinstitute.org/"><img  src="/image/broad.svg" alt="BWH Logo" height=35pt style="padding:5px"></a>
 
 <!--
 #<h3> statistical machine learning  </h3>
@@ -53,6 +56,7 @@ Brigham & Women's Hospital <br>
 
 **News** (updated 2021.12)
 - We are [hiring!](/positions/)
+- [People in Control interview of Travis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9740613)
 - Pre-print ["Intrinsic instability of the dysbiotic microbiome revealed through dynamical systems inference at scale"](https://doi.org/10.1101/2021.12.14.469105)
 - $2.2 Million NIH grant ["Machine learning and control principles for Computational Biology"](https://gibsonlab.io/r35/)
 - $450,000 NIH grant ["Tracking the microbiome: purpose-built machine learning tools for tracking microbial strains over time"](https://gibsonlab.io/r21_tracking/)
@@ -63,6 +67,7 @@ Brigham & Women's Hospital <br>
 - May 6, [Mathematical Biology and Ecology Seminar](https://www.maths.ox.ac.uk/events/list/659) - Oxford
 - May 11, [Models Inference and Algorithms (MIA)](https://www.broadinstitute.org/talks/spring-2022/mia) - Broad Institute
 - June 8-9, [2022 Microbiome Data Congress](https://www.microbiome-data.com/program) - Boston
+- August 14-19  [International Symposium on Microbial Ecology](https://isme18.isme-microbes.org/)
 </div>
 
 
