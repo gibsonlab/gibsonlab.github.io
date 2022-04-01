@@ -38,10 +38,13 @@ Harvard Medical School <b3
 Brigham & Women's Hospital <br>
 -->
 <a href="https://hms.harvard.edu/"><img  src="/image/hmslogo.svg" alt="HMS Logo" height=35pt style="padding:5px"></a> &nbsp;
-<a href="https://www.brighamandwomens.org/research"><img  src="/image/bwh-logo.svg" alt="BWH Logo" height=35pt style="padding:5px"></a> &nbsp;
-<a href="https://www.broadinstitute.org/"><img  src="/image/broad.svg" alt="BWH Logo" height=35pt style="padding:5px"></a>
+<a href="https://www.brighamandwomens.org/research"><img  src="/image/bwh-logo.svg" alt="BWH Logo" height=35pt style="padding:5px"></a>
 
 <!--
+&nbsp;
+<a href="https://www.broadinstitute.org/"><img  src="/image/broad.svg" alt="Broad Logo" height=35pt style="padding:5px"></a>
+
+
 #<h3> statistical machine learning  </h3>
 #<h3> experimental biology </h3>
 -->
