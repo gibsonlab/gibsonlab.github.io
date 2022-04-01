@@ -67,7 +67,7 @@ Brigham & Women's Hospital <br>
 - May 6, [Mathematical Biology and Ecology Seminar](https://www.maths.ox.ac.uk/events/list/659) - Oxford
 - May 11, [Models Inference and Algorithms (MIA)](https://www.broadinstitute.org/talks/spring-2022/mia) - Broad Institute
 - June 8-9, [2022 Microbiome Data Congress](https://www.microbiome-data.com/program) - Boston
-- August 14-19  [International Symposium on Microbial Ecology](https://isme18.isme-microbes.org/)
+- August 14-19  [International Symposium on Microbial Ecology](https://isme18.isme-microbes.org/) - Lausanne, Switzerland
 </div>
 
 
