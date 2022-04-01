@@ -57,12 +57,12 @@ Brigham & Women's Hospital <br>
 <div markdown="1" style="padding-left: 5%; padding-right: 5%">
 <div markdown="1" style="background: #fbfbfb; padding: 10px; border-radius:5px; border: 1px solid #ebebeb">
 
-**News** (updated 2021.12)
+**News** (updated 2022.04)
 - We are [hiring!](/positions/)
 - Interview of Travis [People in Control IEEE Control Systems Magazine](https://gibsonlab.io/files/Travis_E._Gibson_People_in_Control.pdf)
 - Pre-print ["Intrinsic instability of the dysbiotic microbiome revealed through dynamical systems inference at scale"](https://doi.org/10.1101/2021.12.14.469105)
-- NIH R35 grant ["Machine learning and control principles for Computational Biology"](https://gibsonlab.io/r35/)
-- NIH R21 grant ["Tracking the microbiome: purpose-built machine learning tools for tracking microbial strains over time"](https://gibsonlab.io/r21_tracking/)
+- NIH R35 grant: ["Machine learning and control principles for Computational Biology"](https://gibsonlab.io/r35/)
+- NIH R21 grant: ["Tracking the microbiome: purpose-built machine learning tools for tracking microbial strains over time"](https://gibsonlab.io/r21_tracking/)
 - NSF MTM2 grant: ["MTM 2: The rules of microbiota colonization of the mammalian gut"](https://gibsonlab.io/nsf_rules/)
 
 **Upcoming Talks**
