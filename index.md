@@ -59,18 +59,18 @@ Brigham & Women's Hospital <br>
 
 **News** (updated 2021.12)
 - We are [hiring!](/positions/)
-- [People in Control interview of Travis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9740613)
+- Interview of Travis [People in Control IEEE Control Systems Magazine](https://gibsonlab.io/files/Travis_E._Gibson_People_in_Control.pdf)
 - Pre-print ["Intrinsic instability of the dysbiotic microbiome revealed through dynamical systems inference at scale"](https://doi.org/10.1101/2021.12.14.469105)
-- $2.2 Million NIH grant ["Machine learning and control principles for Computational Biology"](https://gibsonlab.io/r35/)
-- $450,000 NIH grant ["Tracking the microbiome: purpose-built machine learning tools for tracking microbial strains over time"](https://gibsonlab.io/r21_tracking/)
-- $2.9 Million NSF grant: ["MTM 2: The rules of microbiota colonization of the mammalian gut"](https://gibsonlab.io/nsf_rules/)
+- NIH R35 grant ["Machine learning and control principles for Computational Biology"](https://gibsonlab.io/r35/)
+- NIH R21 grant ["Tracking the microbiome: purpose-built machine learning tools for tracking microbial strains over time"](https://gibsonlab.io/r21_tracking/)
+- NSF MTM2 grant: ["MTM 2: The rules of microbiota colonization of the mammalian gut"](https://gibsonlab.io/nsf_rules/)
 
 **Upcoming Talks**
 - March 11, [Microbial Sciences Initiative Chalk Talk](https://calendar.college.harvard.edu/event/2022_MSIChalkTalk_0311?utm_campaign=widget&utm_medium=widget&utm_source=Harvard+College+Calendar) - Harvard
 - May 6, [Mathematical Biology and Ecology Seminar](https://www.maths.ox.ac.uk/events/list/659) - Oxford
 - May 11, [Models Inference and Algorithms (MIA)](https://www.broadinstitute.org/talks/spring-2022/mia) - Broad Institute
 - June 8-9, [2022 Microbiome Data Congress](https://www.microbiome-data.com/program) - Boston
-- August 14-19  [International Symposium on Microbial Ecology](https://isme18.isme-microbes.org/) - Lausanne, Switzerland
+- August 14-19,  [International Symposium on Microbial Ecology](https://isme18.isme-microbes.org/) - Lausanne, Switzerland
 </div>
 
 
