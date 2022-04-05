@@ -10,12 +10,12 @@ permalink: /
 description: The Gibson Lab leverages tools from machine learning and control theory to study biological systems. PI - Travis Gibson.
 image: /image/gibson_lab_logo_bw_outlined_cropped_html_github_black_artboard_1200_628-01.png
 twitter:
-  username: gibsonnews
+  username: gibsonlab
   card: summary
 ---
 
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:site" content="@GibsonNews" />
+<meta name="twitter:site" content="@GibsonLab" />
 <meta name="twitter:title" content="Gibson Lab" />
 <meta name="twitter:description" content="Homepage" />
 <meta name="twitter:image" content="https://gibsonlab.io/image/twitter_gibsonlab-01.png"/>
@@ -78,7 +78,7 @@ Brigham & Women's Hospital <br>
 <div style="align:center;padding-top:20px;text-align:center">
 <p style="line-height:1.8">
 <a class="home" href="https://github.com/GibsonLab" style="display: inline-block"><i class="fa fa-github fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
-  <a class="home" href="https://twitter.com/GibsonNews" style="display: inline-block"><i class="fa fa-twitter fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
+  <a class="home" href="https://twitter.com/GibsonLab" style="display: inline-block"><i class="fa fa-twitter fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
   <a class="home" href="mailto:tegibson@bwh.harvard.edu" style="display: inline-block"><i class="fa fa-envelope-o fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
   <a class="home" href="https://www.google.com/maps/place/Building+for+Transformative+Medicine+at+Brigham+and+Women's+Hospital/@42.3353661,-71.1087175,15z/data=!4m2!3m1!1s0x0:0x35376a566e389c7d?sa=X&ved=2ahUKEwifjKzTzcztAhUPZd8KHSK7D6sQ_BIwCnoECBkQBQ" style="display: inline-block">
   <i class="fas fa-map-marker-alt"></i></a>
