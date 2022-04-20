@@ -14,7 +14,7 @@ description: Dr. Travis Gibson is a Principal Investigator at Brigham and Women'
 <a href="mailto:tegibson@bwh.harvard.edu" style="display: inline-block"><i class="fa fa-envelope-o"></i> tegibson@bwh.harvard.edu</a> \\
 <a href="https://scholar.google.com/citations?user=epg4RggAAAAJ&hl=en"><i class="fa fa-graduation-cap"></i> Google Scholar </a>
 
-Assistant Professor \\
+Instructor \\
 Department of Pathology \\
 Harvard Medical School
 
