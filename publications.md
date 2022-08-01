@@ -16,6 +16,7 @@ description: Publications from the Gibson Lab
 {{ pub.authors }} <br>
 <i>{{ pub.where }}</i>, {{ pub.year }} <br>
 {% if pub.pdf %} <button name="button" onclick="window.location.href='{{ pub.pdf }}'"><i class="far fa-file-pdf"></i> paper</button> {% endif %}
+{% if sup.pdf %} <button name="button" onclick="window.location.href='{{ sup.pdf }}'"><i class="far fa-file-pdf"></i> supplement</button> {% endif %}
 {% if pub.poster %} <button name="button" onclick="window.location.href='{{ pub.poster }}'"><i class="far fa-file-pdf"></i> poster</button> {% endif %}
 {% if pub.presentation %} <button name="button" onclick="window.location.href='{{ pub.presentation }}'"><i class="far fa-file-pdf"></i> slides</button> {% endif %}
 {% if pub.video %} <button name="button" onclick="window.location.href='{{ pub.video }}'"><i class="fas fa-video"></i> presentation</button> {% endif %}
