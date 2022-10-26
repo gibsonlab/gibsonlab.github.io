@@ -17,7 +17,7 @@ twitter:
 
 </div>
 
-### Staff Scientist Position in Gibson Lab
+### Staff Scientist (wet/dry) in Gibson Lab
 
 Opening for a Staff Scientist or Senior Staff Scientist to join the Gibson Lab <https://gibsonlab.io> at Harvard Medical School and Brigham and Women's Hospital. We leverage tools from machine learning (ML) and dynamical systems theory to better understand biology. The gut microbiome is our primary area of focus at this time where we co-design our experimental and machine learning models adding key experimental components to help validate our models. The scientist in this role will design gnotobiotic mouse experiments, explore the use of new data modalities for studying host-microbiome interactions (e.g. [digital ELISA](https://www.nature.com/articles/nbt.1641) for detection of host cytokines in feces) and will help to design follow up experiments to validate insights from a our machine learning models. **We are obsessed with uncertainty quantification** and focus on statistical methods that propagate measurement uncertainty throughout the model so that we can access confidence in model parameters and to help prioritize follow-up experiments.
 
