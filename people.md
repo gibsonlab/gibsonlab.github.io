@@ -24,10 +24,7 @@ description: Members of the Gibson Lab
 [//]: ### Research Associates
 
 
-### High School Students
-- Arashdeep Singh (Buchanan High School, Clovis CA)
-- Jashandeep Singh (Buchanan High school, Clovis CA)
-
+[//]: ### High School Students
 ---
 
 ### Alumni
