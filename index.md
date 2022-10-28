@@ -39,6 +39,7 @@ Brigham & Women's Hospital <br>
 -->
 <a href="https://hms.harvard.edu/"><img  src="/image/hmslogo.svg" alt="HMS Logo" height=35pt style="padding:5px"></a> &nbsp;
 <a href="https://www.brighamandwomens.org/research"><img  src="/image/bwh-logo.svg" alt="BWH Logo" height=35pt style="padding:5px"></a>
+<a href="https://www.broadinstitute.org/"><img  src="/image/broad.svg" alt="Broad Logo" height=35pt style="padding:5px"></a>
 
 <!--
 &nbsp;
