@@ -6,7 +6,7 @@ description: Members of the Gibson Lab
 ---
 
 ### Principal Investigator
-- [Travis Gibson](/travisgibson/) - <a href="mailto:tegibson@bwh.harvard.edu" style="display: inline-block"><i class="fa fa-envelope-o"></i> tegibson@bwh.harvard.edu</a>
+- [Travis Gibson PhD](/travisgibson/) - <a href="mailto:tegibson@bwh.harvard.edu" style="display: inline-block"><i class="fa fa-envelope-o"></i> tegibson@bwh.harvard.edu</a>
 
 
 ### Adminsitrative Assistant(s)
