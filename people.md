@@ -22,8 +22,7 @@ description: Members of the Gibson Lab
 
 [//]: ### Undergraduate Students
 [//]: ### Research Associates
-[//]: ### High School Students 
-
+[//]: ### High School Students
 ---
 
 ### Alumni
