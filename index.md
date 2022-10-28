@@ -57,19 +57,18 @@ Brigham & Women's Hospital <br>
 <div markdown="1" style="padding-left: 5%; padding-right: 5%">
 <div markdown="1" style="background: #fbfbfb; padding: 10px; border-radius:5px; border: 1px solid #ebebeb">
 
-**News** (updated 2022.04)
+**News** (updated 2022.10)
 - We are [hiring!](/positions/)
+- [Two new Postdocs have joined the Lab. Welcome Dan and Utkarsh](/people/).
 - Interview of Travis [People in Control IEEE Control Systems Magazine](https://gibsonlab.io/files/Travis_E._Gibson_People_in_Control.pdf)
 - Pre-print ["Intrinsic instability of the dysbiotic microbiome revealed through dynamical systems inference at scale"](https://doi.org/10.1101/2021.12.14.469105)
 - NIH R35 grant: ["Machine learning and control principles for Computational Biology"](https://gibsonlab.io/r35/)
 - NIH R21 grant: ["Tracking the microbiome: purpose-built machine learning tools for tracking microbial strains over time"](https://gibsonlab.io/r21_tracking/)
 - NSF MTM2 grant: ["MTM 2: The rules of microbiota colonization of the mammalian gut"](https://gibsonlab.io/nsf_rules/)
 
-**Upcoming Talks**
-- May 11, [Models Inference and Algorithms (MIA)](https://www.broadinstitute.org/talks/spring-2022/mia) - Broad Institute
-- June 8-9, [2022 Microbiome Data Congress](https://www.microbiome-data.com/program) - Boston
-- August 14-19,  [International Symposium on Microbial Ecology](https://isme18.isme-microbes.org/) - Lausanne, Switzerland
-- September 19,  [MIT Microbial Systems Seminar](https://mss.mit.edu/) - Cambridge, Massachusetts
+[//]: **Upcoming Talks**
+[//]: - May 11, [Models Inference and Algorithms (MIA)](https://www.broadinstitute.org/talks/spring-2022/mia) - Broad Institute
+
 </div>
 
 
