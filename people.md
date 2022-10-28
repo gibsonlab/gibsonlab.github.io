@@ -20,9 +20,11 @@ description: Members of the Gibson Lab
 - [Younhun Kim](http://www-math.mit.edu/~younhun/), Mathematics MIT (co-advised with [Bonnie Berger](https://people.csail.mit.edu/bab/))
 - Jen Dawkins, Harvard-MIT HST (co-advised with [Georg Gerber](https://gerber.bwh.harvard.edu/))
 
-[//]: ### Undergraduate Students
-[//]: ### Research Associates
-[//]: ### High School Students
+<!--
+### Undergraduate Students
+### Research Associates
+### High School Students
+-->
 ---
 
 ### Alumni

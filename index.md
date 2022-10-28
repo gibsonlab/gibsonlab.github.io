@@ -61,15 +61,15 @@ Brigham & Women's Hospital <br>
 **News** (updated 2022.10)
 - We are [hiring!](/positions/)
 - Two new Postdocs have joined the Lab. [Welcome Dan and Utkarsh](/people/).
-- Interview of Travis [People in Control IEEE Control Systems Magazine](https://gibsonlab.io/files/Travis_E._Gibson_People_in_Control.pdf)
+- Interview of Travis [People in Control - IEEE Control Systems Magazine](https://gibsonlab.io/files/Travis_E._Gibson_People_in_Control.pdf)
 - Pre-print ["Intrinsic instability of the dysbiotic microbiome revealed through dynamical systems inference at scale"](https://doi.org/10.1101/2021.12.14.469105)
 - NIH R35 grant: ["Machine learning and control principles for Computational Biology"](https://gibsonlab.io/r35/)
 - NIH R21 grant: ["Tracking the microbiome: purpose-built machine learning tools for tracking microbial strains over time"](https://gibsonlab.io/r21_tracking/)
 - NSF MTM2 grant: ["MTM 2: The rules of microbiota colonization of the mammalian gut"](https://gibsonlab.io/nsf_rules/)
-
-[//]: **Upcoming Talks**
-[//]: - May 11, [Models Inference and Algorithms (MIA)](https://www.broadinstitute.org/talks/spring-2022/mia) - Broad Institute
-
+<!--
+**Upcoming Talks**
+- May 11, [Models Inference and Algorithms (MIA)](https://www.broadinstitute.org/talks/spring-2022/mia) - Broad Institute
+-->
 </div>
 
 
