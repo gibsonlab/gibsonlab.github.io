@@ -52,9 +52,8 @@ Brigham & Women's Hospital <br>
 </p>
 
 
-
-
 </div>
+
 <div markdown="1" style="padding-left: 5%; padding-right: 5%">
 <div markdown="1" style="background: #fbfbfb; padding: 10px; border-radius:5px; border: 1px solid #ebebeb">
 
@@ -66,10 +65,12 @@ Brigham & Women's Hospital <br>
 - NIH R35 grant: ["Machine learning and control principles for Computational Biology"](https://gibsonlab.io/r35/)
 - NIH R21 grant: ["Tracking the microbiome: purpose-built machine learning tools for tracking microbial strains over time"](https://gibsonlab.io/r21_tracking/)
 - NSF MTM2 grant: ["MTM 2: The rules of microbiota colonization of the mammalian gut"](https://gibsonlab.io/nsf_rules/)
+
 <!--
 **Upcoming Talks**
 - May 11, [Models Inference and Algorithms (MIA)](https://www.broadinstitute.org/talks/spring-2022/mia) - Broad Institute
 -->
+
 </div>
 
 
