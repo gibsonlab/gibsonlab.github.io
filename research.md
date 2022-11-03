@@ -14,7 +14,6 @@ We leverage tools from machine learning and control to understand biological sys
 * Genetically engineering and controlling a microbial consortia
 
 
-
 ## Samples from our modeling research
 
 To answer our biological questions surrounding the microbiome we build statistical models that propagate measurement and latent state uncertainty throughout the model. One example of this is our Robust and Scalable Model of Microbiome Dynamics (Figure 1). This model is a Bayesian nonparametric model of microbial dynamics based on what we term interaction modules, or learned clusters of latent variables with redundant interaction structure. This allows our model of dynamics to scale to hundreds of microbial taxa. Application of this model to "humanized" gnotobiotic mice can be found in our recent pre-print ["Intrinsic instability of the dysbiotic microbiome revealed through dynamical systems inference at ecosystem-scale"](https://doi.org/10.1101/2021.12.14.469105). Another example of our modeling work is the method Chronostrain (Figure 2). Chronostrain is a sequencing quality, host, and time aware strain tracking algorithm.
