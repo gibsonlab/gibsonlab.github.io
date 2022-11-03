@@ -5,7 +5,7 @@ permalink: /about/
 description: About the Gibson Lab
 ---
 
-We leverage tools from machine learning and control theory to understand biological systems.  Control theoretic concepts are integrated both in the design of our optimization schemes and statistical machine learning models, as well as in the design of our *in vitro* and *in vivo* experiments. The lab logo, shown again below, depicts a feedback control loop at the top, contour lines of a kernel density fit with samples on the right, and seperating nucleotide chains on the bottom left. For more details on work in the lab go to our [research tab](/research/).
+**We leverage tools from machine learning and control theory to understand biological systems, and we are obsessed with uncertainty quantification**.  Control theoretic concepts are integrated both in the design of our optimization schemes and statistical machine learning models, as well as in the design of our *in vitro* and *in vivo* experiments. The lab logo, shown again below, depicts a feedback control loop at the top, contour lines of a kernel density fit with samples on the right, and seperating nucleotide chains on the bottom left. For more details on work in the lab go to our [research tab](/research/).
 
 <center>
 <img  src="/image/gibson_lab_logo_bw_outlined_cropped_html.svg" alt="Gibson Lab Logo" width=225pt>
