@@ -22,7 +22,7 @@ description: Members of the Gibson Lab
 
 <!--
 ### Undergraduate Students
-### Research Associates
+### Research Associates 
 ### High School Students
 -->
 ---
