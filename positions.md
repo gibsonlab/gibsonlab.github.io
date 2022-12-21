@@ -17,6 +17,7 @@ Current projects
 - Developing time and quality aware strain tracking models to study the colonization dynamics of pathogens.
 - Developing robust microbial consortia (using putative interactions learned from our dynamical systems models and using control theory principles) and testing them in gnotobiotic mice.
 - Provably stable and robust gradient descent algorithms for optimizing differentiable ML models with applications in Healthcare and Biology.
+- Experimental and computational methods for interrogating gut-brain axis
 - Methods for integrating multiple data modalities and prior knowledge (from other studies or databases) in time-series models.
 - Host microbiome interactions (dry or wet/dry, see below)
 

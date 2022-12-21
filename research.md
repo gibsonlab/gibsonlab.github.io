@@ -10,6 +10,7 @@ We leverage tools from machine learning and control to understand biological sys
 * Statistical learning applied to microbial dynamics (Bayesian nonparametrics, layered latent state-space models)
 * Time-series "omics" (metagenomics, transcriptomics, and metabolomics)
 * Host-Microbiome interactions
+* Gut-Brain axis
 * Theoretical foundations at the intersection of machine learning and control
 * Genetically engineering and controlling a microbial consortia
 
