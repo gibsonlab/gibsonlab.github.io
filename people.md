@@ -13,11 +13,12 @@ description: Members of the Gibson Lab
 - Tarissa Arnold-Mages, tarnoldmages#bwh.harvard.edu (# = @)
 
 ### Postdoctoral Fellows
-- [Utkarsh Sharma](https://u-sharma.github.io/) PhD, Johns Hopkins University
+- [Utkarsh Sharma PhD](https://u-sharma.github.io/), Johns Hopkins University
 - Dan MacDonald PhD, University of Toronto
+- [Younhun Kim PhD](http://www-math.mit.edu/~younhun/), MIT
 
 ### Graduate Students
-- [Younhun Kim](http://www-math.mit.edu/~younhun/), Mathematics MIT (co-advised with [Bonnie Berger](https://people.csail.mit.edu/bab/))
+
 - Jen Dawkins, Harvard-MIT HST (co-advised with [Georg Gerber](https://gerber.bwh.harvard.edu/))
 
 <!--
