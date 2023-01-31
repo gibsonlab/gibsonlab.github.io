@@ -57,8 +57,9 @@ Brigham & Women's Hospital <br>
 <div markdown="1" style="padding-left: 5%; padding-right: 5%">
 <div markdown="1" style="background: #fbfbfb; padding: 10px; border-radius:5px; border: 1px solid #ebebeb">
 
-**News** (updated 2022.10)
+**News** (updated 2023.01)
 - We are [hiring!](/positions/)
+- Pre-print ["Strain Tracking with Uncertainty Quantification"](https://doi.org/10.1101/2023.01.25.525531)
 - Two new Postdocs have joined the Lab. [Welcome Dan and Utkarsh](/people/).
 - Podcast interview of Travis on [The Microbe Moment](https://www.microbigals.com/the-microbe-moment-science-podcast/episode/1d3260ca/the-microbe-moment-of-dr-travis-gibson-gut-microbiome-machine-learning-and-experimental-design)
 - Interview of Travis [People in Control - IEEE Control Systems Magazine](https://gibsonlab.io/files/Travis_E._Gibson_People_in_Control.pdf)
