@@ -22,36 +22,29 @@ twitter:
 
 
 <div style="align:center;padding-top:32px;text-align:center">
-
-
-
-
 <a href="https://gibsonlab.io"><img  src="/image/gibson_lab_logo_bw_outlined_cropped_html.svg" alt="Gibson Lab Logo" width=325pt></a>
-
-
-
-
 <p>
 <h3> Machine learning and control theory for biological systems</h3>
-<!--
-Harvard Medical School <b3
+
+Harvard Medical School <br>
 Brigham & Women's Hospital <br>
--->
+
+</p>
+</div>
+
+<!--
 <a href="https://hms.harvard.edu/"><img  src="/image/hmslogo.svg" alt="HMS Logo" height=35pt style="padding:5px"></a> &nbsp;
 <a href="https://www.brighamandwomens.org/research"><img  src="/image/bwh-logo.svg" alt="BWH Logo" height=35pt style="padding:5px"></a>
 <a href="https://www.broadinstitute.org/"><img  src="/image/broad.svg" alt="Broad Logo" height=35pt style="padding:5px"></a>
 
-<!--
 &nbsp;
 <a href="https://www.broadinstitute.org/"><img  src="/image/broad.svg" alt="Broad Logo" height=35pt style="padding:5px"></a>
-
 
 #<h3> statistical machine learning  </h3>
 #<h3> experimental biology </h3>
 -->
-</p>
 
-
+<!--
 </div>
 
 <div markdown="1" style="padding-left: 5%; padding-right: 5%">
@@ -73,11 +66,9 @@ Brigham & Women's Hospital <br>
 - May 11, [Models Inference and Algorithms (MIA)](https://www.broadinstitute.org/talks/spring-2022/mia) - Broad Institute
 -->
 
-</div>
 
 
-
-<div style="align:center;padding-top:20px;text-align:center">
+<div style="align:center;padding-top:5px;text-align:center">
 <p style="line-height:1.8">
 <a class="home" href="https://github.com/GibsonLab" style="display: inline-block"><i class="fa fa-github fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
   <a class="home" href="https://twitter.com/GibsonLab" style="display: inline-block"><i class="fa fa-twitter fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
@@ -85,7 +76,6 @@ Brigham & Women's Hospital <br>
   <a class="home" href="https://www.google.com/maps/place/Building+for+Transformative+Medicine+at+Brigham+and+Women's+Hospital/@42.3353661,-71.1087175,15z/data=!4m2!3m1!1s0x0:0x35376a566e389c7d?sa=X&ved=2ahUKEwifjKzTzcztAhUPZd8KHSK7D6sQ_BIwCnoECBkQBQ" style="display: inline-block">
   <i class="fas fa-map-marker-alt"></i></a>
 </p>
-</div>
 </div>
 
 
