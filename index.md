@@ -26,7 +26,7 @@ twitter:
 <p>
 <h3> Machine learning and control theory for biological systems</h3>
 
-<a href="https://hms.harvard.edu/"><img  src="/image/hbb2.svg" alt="harvard medical school, broad, and bwh logos" width=225pt style="padding:5px"></a>
+<a href="https://hms.harvard.edu/"><img  src="/image/hbb2.svg" alt="harvard medical school, broad, and bwh logos" width=275pt style="padding:5px"></a>
 
 </p>
 </div>
