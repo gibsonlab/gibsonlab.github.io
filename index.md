@@ -26,7 +26,15 @@ twitter:
 <p>
 <h3> Machine learning and control theory for biological systems</h3>
 
-<a href="https://hms.harvard.edu/"><img  src="/image/hbb3.svg" alt="harvard medical school, broad, and bwh logos" width=275pt style="padding:5px"></a>
+<img  src="/image/hbb3.svg" alt="harvard medical school, broad, and bwh logos" usemap="#workmap" width=275pt style="padding:5px">
+
+<map name="workmap">
+  <area shape="rect" coords="55,0,220,41.5" alt="harvard medical school" href="https://hms.harvard.edu">
+  <area shape="rect" coords="0,50,275,80" alt="brigham and women's hospital" href="https://www.brighamandwomens.org">
+  <area shape="rect" coords="72,94,200,127" alt="broad institute" href="https://www.broadinstitute.org">
+
+</map>
+
 
 </p>
 </div>
