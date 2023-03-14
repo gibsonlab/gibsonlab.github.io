@@ -13,5 +13,5 @@ description: News for the Gibson Lab
 - NIH R35 grant: ["Machine learning and control principles for Computational Biology"](https://gibsonlab.io/r35/)
 - Pre-print ["Intrinsic instability of the dysbiotic microbiome revealed through dynamical systems inference at scale"](https://doi.org/10.1101/2021.12.14.469105)
 - NIH R21 grant: ["Tracking the microbiome: purpose-built machine learning tools for tracking microbial strains over time"](https://gibsonlab.io/r21_tracking/)
-- NSF MTM2 grant: ["MTM 2: The rules of microbiota colonization of the mammalian gut"](https://gibsonlab.io/nsf_rules/)
+- NSF MTM2 grant: ["MTM 2: The rules of microbiota colonization of the mammalian gut"](https://gibsonlab.io/nsf_rules/) 
 - Research Highlight from Harvard: [Bug Buddies - Engineered bacteria create friendlier microbial neighborhoods](https://hms.harvard.edu/news/bug-buddies)
