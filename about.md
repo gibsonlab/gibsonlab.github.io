@@ -49,6 +49,5 @@ MIT Stata Center (32-G570)\\
   loading="lazy"
   allowfullscreen
   referrerpolicy="no-referrer-when-downgrade"
-  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCCLiCj04WDAdFab8pTJhbRI72vVc7Kwr0
-    &q=Building+for+Transformative+Medicine+at+Brigham+and+Women's+Hospital&zoom=13">
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.3356805774415!2d-71.11091154806559!3d42.335366079086384!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e3798e3a9cbd31%3A0x35376a566e389c7d!2sBuilding%20for%20Transformative%20Medicine%20at%20Brigham%20and%20Women&#39;s%20Hospital!5e0!3m2!1sen!2sus!4v1678993487082!5m2!1sen!2sus">
 </iframe>
