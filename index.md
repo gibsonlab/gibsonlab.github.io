@@ -26,7 +26,7 @@ twitter:
 <p>
 <h3> Machine learning and control theory for biological systems</h3>
 
-<img  src="/image/hbb3.svg" alt="harvard medical school, broad, and bwh logos" usemap="#workmap" width=275pt style="padding:5px">
+<img  src="/image/hbbbw_v1.svg" alt="harvard medical school, broad, and bwh logos" usemap="#workmap" width=275pt style="padding:5px">
 
 <map name="workmap">
   <area shape="rect" coords="55,0,220,41.5" alt="harvard medical school" href="https://hms.harvard.edu">
