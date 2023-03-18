@@ -45,7 +45,7 @@ MIT Stata Center (32-G570)\\
   class="map"
   width="100%"
   height="450"
-  style="border:0; filter: grayscale(100%)"
+  style="border:0; filter: grayscale(100%); -webkit-filter: grayscale(100%);"
   loading="lazy"
   allowfullscreen
   referrerpolicy="no-referrer-when-downgrade"
