@@ -22,11 +22,11 @@ twitter:
 
 
 <div style="align:center;padding-top:32px;text-align:center">
-<a href="https://gibsonlab.io"><img  src="/image/gibson_lab_logo_bw_outlined_cropped_html.svg" alt="Gibson Lab Logo" width=325pt></a>
+<a href="https://gibsonlab.io"><img  src="/image/gibson_lab_logo_bw_outlined_cropped_html.svg" alt="Gibson Lab Logo" width=325pt style="padding-bottom:32px"></a>
 <p>
 <h3> Machine learning and control theory for biological systems</h3>
-
-<img  src="/image/hbbbw_v1.svg" alt="harvard medical school, broad, and bwh logos" usemap="#workmap" width=275pt style="padding:5px">
+</p>
+<img  src="/image/hbbbw_v1.svg" alt="harvard medical school, broad, and bwh logos" usemap="#workmap" width=275pt style="padding-top:32px">
 
 <map name="workmap">
   <area shape="rect" coords="55,0,220,41.5" alt="harvard medical school" href="https://hms.harvard.edu">
@@ -36,7 +36,7 @@ twitter:
 </map>
 
 
-</p>
+
 </div>
 
 <!--
@@ -75,7 +75,7 @@ twitter:
 
 
 
-<div style="align:center;padding-top:5px;text-align:center">
+<div style="align:center;padding-top:25px;text-align:center">
 <p style="line-height:1.8">
 <a class="home" href="https://github.com/GibsonLab" style="display: inline-block"><i class="fa fa-github fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
   <a class="home" href="https://twitter.com/GibsonLab" style="display: inline-block"><i class="fa fa-twitter fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
