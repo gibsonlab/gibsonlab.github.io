@@ -21,6 +21,12 @@ description: Members of the Gibson Lab
 
 - Jen Dawkins, Harvard-MIT HST (co-advised with [Georg Gerber](https://gerber.bwh.harvard.edu/))
 
+### Visiting Scholars and Students
+
+- [Anja Adamov](https://ifnh.ethz.ch/the-institute/people/person-detail.MTcyMzk2.TGlzdC80ODUsLTUxNjg1MzUzNg==.html), ETH Zürich ([Bokulich Lab](https://fsb.ethz.ch))
+
+
+
 <!--
 ### Undergraduate Students
 ### Research Associates 
