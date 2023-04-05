@@ -36,7 +36,7 @@ description: Members of the Gibson Lab
 
 ### Alumni
 - Daniel Alfonsetti,  MIT UROP (Now at Argo AI)
-- Zack Gromko, MIT UROP (Now a PhD student at MIT)
+- Zack Gromko, MIT UROP (Now a graduate student at MIT)
 - Arashdeep Singh, Buchanan High School (Now an Undergraduate student at MIT)
 - Jashandeep Singh, Buchanan High school (Now an Undergraduate student at MIT)
-- Sawal Acharya, BS Columbia
+- Sawal Acharya, BS Columbia (Now a graduate student at Stanford)
