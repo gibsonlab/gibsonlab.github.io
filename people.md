@@ -14,7 +14,7 @@ description: Members of the Gibson Lab
 
 ### Postdoctoral Fellows
 - [Utkarsh Sharma PhD](https://u-sharma.github.io/), Johns Hopkins University
-- Dan MacDonald PhD, University of Toronto
+- [Dan MacDonald PhD](https://demacdo.github.io/), University of Toronto
 - [Younhun Kim PhD](http://www-math.mit.edu/~younhun/), MIT
 
 ### Graduate Students
