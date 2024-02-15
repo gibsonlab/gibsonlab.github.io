@@ -14,12 +14,16 @@ description: Members of the Gibson Lab
 
 ### Postdoctoral Fellows
 - [Utkarsh Sharma PhD](https://u-sharma.github.io/), Johns Hopkins University
-- Dan MacDonald PhD, University of Toronto
+- [Dan MacDonald PhD](https://demacdo.github.io), University of Toronto
+	-  [NSERC Banting Postdoctoral Fellow](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/Banting-Banting_eng.asp)
 - [Younhun Kim PhD](http://www-math.mit.edu/~younhun/), MIT
 
 ### Graduate Students
 
 - Jen Dawkins, Harvard-MIT HST (co-advised with [Georg Gerber](https://gerber.bwh.harvard.edu/))
+
+### Collaborators
+
 
 ### Visiting Scholars and Students
 
