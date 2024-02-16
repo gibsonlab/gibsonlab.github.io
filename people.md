@@ -14,8 +14,7 @@ description: Members of the Gibson Lab
 
 ### Postdoctoral Fellows
 - [Utkarsh Sharma PhD](https://u-sharma.github.io/), Johns Hopkins University
-- [Dan MacDonald PhD](https://demacdo.github.io), University of Toronto
-	-  [NSERC Banting Postdoctoral Fellow](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/Banting-Banting_eng.asp)
+- [Dan MacDonald PhD](https://demacdo.github.io) - [NSERC Banting Postdoctoral Fellow](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/Banting-Banting_eng.asp), University of Toronto  
 - [Younhun Kim PhD](http://www-math.mit.edu/~younhun/), MIT
 
 ### Graduate Students
