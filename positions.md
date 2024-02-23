@@ -6,7 +6,7 @@ description: Positions available in the Gibson Lab
 ---
 
 Official announcements for openings
-- [Control theory principles for microbial therapy design](/controlmicrobiome_postdoc/)
+- [Postdoctoral Fellow: Control theory principles for microbial therapy design](/controlmicrobiome_postdoc/)
 - [Postdoctoral Fellow: Computational Biology (ML4Bio)](/ml4bio_postdoc/)
 
 
