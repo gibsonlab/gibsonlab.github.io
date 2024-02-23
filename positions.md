@@ -6,9 +6,9 @@ description: Positions available in the Gibson Lab
 ---
 
 Official announcements for openings
+- [Control theory principles for microbial therapy design](/controlmicrobiome_postdoc/)
 - [Postdoctoral Fellow: Computational Biology (ML4Bio)](/ml4bio_postdoc/)
-- [Postdoctoral Fellow: Host-Microbiome](/hostmicrobe_postdoc/)
-- [Staff Scientist (wet/dry)](/staffscientist/)
+
 
 We are always looking to grow the lab. If you are interested in our work but not one of the above announcements or the projects below then still reach out (this list will not always reflect all of our openings or projects). Please don't hesitate to reach out because you think your background may not work. We need engineering, math, computer science, ecology, statistics, chemistry, microbiology, and much more to get these projects off the ground. See our [funding](/about/#funding) for more information on the grants supporting this work. While we are primarily a computational group all students and postdocs are encouraged to design their own experiments, that are then carried out by staff in the [host-microbiome center](https://metagenomics.partners.org/) or through our many collaborating labs. Interested graduate students, postdocs, research associates or rotation students should send cover letter and cv to <a href="mailto:tegibson@bwh.harvard.edu">tegibson@bwh.harvard.edu</a>.
 
