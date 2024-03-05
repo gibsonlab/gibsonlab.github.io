@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gibson Lab - Post Doctoral Fellow opening
+title: Gibson Lab - Postdoctoral Fellow opening
 permalink: /controlmicrobiome_postdoc/
 description: Designing microbial communities using control theory principles
 image: /image/gibson_lab_logo_bw_outlined_cropped_html_github_black_artboard_1200_628-01.png
