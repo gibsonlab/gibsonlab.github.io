@@ -21,7 +21,7 @@ description: Publications from the Gibson Lab
 {% if pub.presentation %} <button name="button" onclick="window.location.href='{{ pub.presentation }}'"><i class="far fa-file-pdf"></i> slides</button> {% endif %}
 {% if pub.video %} <button name="button" onclick="window.location.href='{{ pub.video }}'"><i class="fas fa-video"></i> presentation</button> {% endif %}
 {% if pub.arxiv %} <button name="button" onclick="window.location.href='{{ pub.arxiv }}'"><i class="ai ai-arxiv"></i> arXiv</button> {% endif %}
-{% if pub.biorxiv %} <button name="button" onclick="window.location.href='{{ pub.biorxiv }}'"><i class="ai ai-biorxiv"> bioRxiv</button> {% endif %}
+{% if pub.biorxiv %} <button name="button" onclick="window.location.href='{{ pub.biorxiv }}'"><i class="ai ai-biorxiv"></i> bioRxiv</button> {% endif %}
 {% if pub.medrxiv %} <button name="button" onclick="window.location.href='{{ pub.medrxiv }}'">medRxiv</button> {% endif %}
 {% if pub.github %} <button name="button" onclick="window.location.href='{{ pub.github }}'"><i class="fab fa-github"></i> GitHub</button> {% endif %}
 {% if pub.news1name %} <button name="button" onclick="window.location.href='{{ pub.news1link }}'"><i class="far fa-newspaper"></i> {{ pub.news1name }}</button> {% endif %}
