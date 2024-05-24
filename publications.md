@@ -20,7 +20,7 @@ description: Publications from the Gibson Lab
 {% if pub.poster %} <button name="button" onclick="window.location.href='{{ pub.poster }}'"><i class="far fa-file-pdf"></i> poster</button> {% endif %}
 {% if pub.presentation %} <button name="button" onclick="window.location.href='{{ pub.presentation }}'"><i class="far fa-file-pdf"></i> slides</button> {% endif %}
 {% if pub.video %} <button name="button" onclick="window.location.href='{{ pub.video }}'"><i class="fas fa-video"></i> presentation</button> {% endif %}
-{% if pub.arxiv %} <button name="button" onclick="window.location.href='{{ pub.arxiv }}'">arXiv</button> {% endif %}
+{% if pub.arxiv %} <button name="button" onclick="window.location.href='{{ pub.arxiv }}'"><i class="ai ai-arxiv"></i>arXiv</button> {% endif %}
 {% if pub.biorxiv %} <button name="button" onclick="window.location.href='{{ pub.biorxiv }}'">bioRxiv</button> {% endif %}
 {% if pub.medrxiv %} <button name="button" onclick="window.location.href='{{ pub.medrxiv }}'">medRxiv</button> {% endif %}
 {% if pub.github %} <button name="button" onclick="window.location.href='{{ pub.github }}'"><i class="fab fa-github"></i> GitHub</button> {% endif %}
