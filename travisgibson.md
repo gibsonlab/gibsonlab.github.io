@@ -47,5 +47,5 @@ SM, Massachusetts Institute of Technology\\
 BS, Georgia Institute of Technology
 
 **External Links**\\
-[Eric and Wendy Schmidt Center - Broad](https://www.ericandwendyschmidtcenter.org/collaborators)
+[Eric and Wendy Schmidt Center - Broad](https://www.ericandwendyschmidtcenter.org/collaborators)\\
 [BWH Computational Pathology - Core Faculty](https://comp-path.bwh.harvard.edu/people/)
