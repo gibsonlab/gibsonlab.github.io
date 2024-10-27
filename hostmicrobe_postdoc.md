@@ -13,33 +13,18 @@ twitter:
 <div style="align:center;text-align:center">
 
 <img  src="/image/hmslogo.svg" alt="HMS Logo" height=50pt> &nbsp;&nbsp;
-<img  src="/image/bwh-logo.svg" alt="BWH Logo" height=50pt> <br><br>
-
+<img  src="/image/bwh-logo.svg" alt="BWH Logo" height=50pt> &nbsp;&nbsp;
+<img  src="/image/broad.svg" alt="BWH Logo" height=50pt><br><br>
 </div>
 
-### Host-Microbiome Postdoctoral Fellow
+### Host-Microbiome (Gut-Brain Axis) Postdoctoral Fellow
 
-Opening for a Postdoctoral Research Fellow to join the Gibson Lab <https://gibsonlab.io> at Harvard Medical School and Brigham and Women's Hospital. We leverage tools from machine learning (ML) and dynamical systems theory to better understand biology. The gut microbiome is our primary area of focus at this time where we co-design our experimental and machine learning models adding key experimental components to help validate our models. The fellow in this position will explore new aspects of health and disease at the host microbiome interface. All fellows in the Gibson Lab are encouraged to design their own experiments that are then carried out at the mouse facility, but for this project there will be a special emphasis on gnotobiotic experimental design and the exploration of new data modalities for the microbiome. For example, we are investigating the use of [digital ELISA](https://www.nature.com/articles/nbt.1641) to measure low abundance host inflammatory markers in feces (in collaboration with the [Walt Lab](https://waltlab.bwh.harvard.edu/)).
+Opening for a Postdoctoral Research Fellow to join the [Gibson Lab](https://gibsonlab.io) at Harvard Medical School (HMS), Brigham and Women's Hospital (BWH), and the Broad Institute of MIT and Harvard. We leverage tools from machine learning (ML) and control theory to better understand biological systems and we are obsessed with uncertainty quantification. The gut microbiome and host-microbiome interactions are our primary areas of focus at this time. One area of particular interest to us is the gut-brain axis. 
 
-Other projects in the lab include the design of bacteriotherapies (bugs-as-drugs), developing methods to learn microbial dynamics at ecosystem-scale, studying the impact of phages on microbial communities, methods for tracking low abundance pathogens, and methods for integrating multiple data modalities and prior knowledge (from other studies or databases) in time-series models. We focus on Bayesian methods that propagate measurement uncertainty throughout the model so that we can access confidence in model parameters and to help prioritize follow-up experiments. ML techniques applied include variational inference, Bayesian non-parametric models, and relaxation techniques (for making discrete models differentiable).
+add better transition here
 
-- **NIH R35GM143056** - [Machine Learning and Control Principles for Computational Biology](/r35/)
-- **NIH R21AI154075** - [Tracking the microbiome: purpose-built machine learning tools for tracking microbial strains over time](/r21_tracking/)
-- **NSF MTM2**- [The rules of microbiota colonization of the mammalian gut](/nsf_rules/)
+For this project there will be a special emphasis on integrating new data modalities into our models for probing host-microbe interactions. A few examples include: the use of [digital ELISA](https://www.nature.com/articles/nbt.1641) to measure low abundance host inflammatory markers in feces (in collaboration with the [Walt Lab](https://waltlab.bwh.harvard.edu/)) as well as the use of spatial transcriptomics (e.g. Multiplexed Error-Robust FISH (MERFISH)) to obtain measurements of the spatial organization of bacteria and their local transcriptional environment.
 
-**Qualifications**
-- PhD (all dry lab or mixed wet/dry background are preferred, if you have a 100% wet lab background then we can discuss formal appointment with or co-advising by another faculty member in Boston/Cambridge)
-- Solid programming skills in Python; this isn’t a software engineering job by any stretch, but you will need to be able to develop efficient implementations and apply your work to real data
-- Excellent publication track record
-- Background in microbiology a plus (but not required)
-- Ability to reside in the U.S. and legally work in the country.
+Other projects in the lab include the design of bacteriotherapies (bugs-as-drugs), developing methods to learn microbial dynamics at ecosystem-scale, studying the impact of phages on microbial communities, methods for tracking low abundance pathogens, and methods for integrating multiple data modalities and prior knowledge (from other studies, databases, or foundation models (e.g. Alphafold)) in time-series models. We focus on Bayesian methods that can propagate measurement uncertainty so that we can assess confidence in model parameters and to help prioritize follow-up experiments. ML techniques applied include: variational inference, Bayesian non-parametric models, discrete relaxation techniques (for making discrete models differentiable), and deep learning. 
 
-**About the lab environment**
-
-The Gibson Lab is located in the Division of Computational Pathology at Brigham and Women’s Hospital (BWH), a Harvard Medical School teaching hospital, which is the second largest non-university recipient of NIH research funding. The broad mandate of the Division of Computational Pathology is to develop and apply advanced computational methods for furthering the understanding, diagnosis, and treatment of human diseases. The Division is situated within the BWH Department of Pathology, which houses over 40+ established investigators, 50+ postdoctoral research fellows, and 100+ research support staff. In addition, BWH is part of the greater Longwood Medical Area in Boston, a rich, stimulating environment conducive to intellectual development and research collaborations, which includes the Harvard Medical School quad, Harvard School of Public Health, Boston Children’s Hospital, and the Dana Farber Cancer Institute. Many of our lab members also have appointments at the Massachusetts Institute of Technology and the Broad Institute.
-
-**Applications Process**
-
-Submit: (1) brief research statement (not to exceed 2 pages); (2) curriculum vitae; (3) two most relevant publications; (4) names and contact information of three individuals who can serve as references to: Travis Gibson, tegibson@bwh.harvard.edu. If you wish to chat briefly over Zoom before submitting materials to learn more details about our ongoing work, please inquire about this possibility.
-
-*We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, gender identity, sexual orientation, pregnancy and pregnancy-related conditions or any other characteristic protected by law.*
+{% include_relative position_footer.md %}
