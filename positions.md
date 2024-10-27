@@ -14,7 +14,7 @@ Official announcements may not reflect all of our openings. Please don't hesitat
 
 Ongoing projects
 - Learning microbial dynamics at scale across space and time
-- Neural ODEs with biology applications
+- Neural Ordinary Differential Equations (ODE) for applications in biology
 - Bacteriotherapy design using control theory principles
 - Accelerated gradient descent for real-time applications
 - Experimental and computational methods for studying the gut-brain axis
