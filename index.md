@@ -24,7 +24,7 @@ twitter:
 <div style="align:center;padding-top:32px;text-align:center">
 <a href="https://gibsonlab.io"><img  src="/image/gibson_lab_logo_bw_outlined_cropped_html.svg" alt="Gibson Lab Logo" width=325pt style="padding-bottom:32px"></a>
 <p>
-<h3> Machine learning and control theory for biological systems</h3>
+<h3> Machine learning and control theory to advance our understanding of biological systems</h3>
 </p>
 <img  src="/image/hbbbw_v1.svg" alt="harvard medical school, broad, and bwh logos" usemap="#workmap" width=275pt style="padding-top:32px">
 
