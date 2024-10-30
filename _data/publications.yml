@@ -1,4 +1,4 @@
--   title: On the stability of second order gradient descent for time varying convex functions
+-   title: On the stability of gradient descent with second order dynamics for time-varying cost functions
     authors: T.E. Gibson, S. Acharya, A. Parashar, J.E. Gaudio, A.M. Annaswamy
     where: arXiv
     year: 2024

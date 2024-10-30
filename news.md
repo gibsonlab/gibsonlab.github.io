@@ -5,7 +5,7 @@ permalink: /news/
 description: News for the Gibson Lab
 ---
 **News** (updated 2024.09)
-- Pre-print ["On the stability of second order gradient descent for time varying convex functions"](https://arxiv.org/abs/2405.13765)
+- Pre-print ["On the stability of gradient descent with second order dynamics for time-varying cost functions"](https://arxiv.org/abs/2405.13765)
 - Dan MacDonald received the Banting Postdoctoral Fellowship. Learn more [here](https://comp-path.bwh.harvard.edu/macdonald-fellowship/)  
 - Pre-print ["Strain Tracking with Uncertainty Quantification"](https://doi.org/10.1101/2023.01.25.525531)
 - Two new Postdocs have joined the Lab. [Welcome Dan and Utkarsh](/people/).
