@@ -78,6 +78,7 @@ twitter:
 <div style="align:center;padding-top:25px;text-align:center">
 <p style="line-height:1.8">
 <a class="home" href="https://github.com/GibsonLab" style="display: inline-block"><i class="fa fa-github fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
+  <a class="home" href="https://bsky.app/profile/gibsonlab.io" style="display: inline-block"><i class="fa-brands fa-bluesky fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
   <a class="home" href="https://twitter.com/GibsonLab" style="display: inline-block"><i class="fa fa-twitter fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
   <a class="home" href="mailto:tegibson@bwh.harvard.edu" style="display: inline-block"><i class="fa fa-envelope-o fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
   <a class="home" href="https://www.google.com/maps/place/Building+for+Transformative+Medicine+at+Brigham+and+Women's+Hospital/@42.3353661,-71.1087175,15z/data=!4m2!3m1!1s0x0:0x35376a566e389c7d?sa=X&ved=2ahUKEwifjKzTzcztAhUPZd8KHSK7D6sQ_BIwCnoECBkQBQ" style="display: inline-block">
