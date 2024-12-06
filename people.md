@@ -17,17 +17,19 @@ description: Members of the Gibson Lab
 - [Dan MacDonald PhD](https://demacdo.github.io) - [NSERC Banting Postdoctoral Fellow](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/Banting-Banting_eng.asp)
 - [Younhun Kim PhD](http://www-math.mit.edu/~younhun/)
 
+<!--
 ### Graduate Students
-
 - Jen Dawkins, Harvard-MIT HST (co-advised with [Georg Gerber](https://gerber.bwh.harvard.edu/))
+-->
 
 ### Collaborators
 - [Matthew Levine PhD](https://mattlevine.netlify.app) - [Postdoctoral Fellow at the Broad Institute of MIT/Harvard in the Eric and Wendy Schmidt Center](https://www.ericandwendyschmidtcenter.org/postdoc-fellows)
 
+
+<!--
 ### Visiting Scholars and Students
-
 - [Anja Adamov](https://ifnh.ethz.ch/the-institute/people/person-detail.MTcyMzk2.TGlzdC80ODUsLTUxNjg1MzUzNg==.html), ETH Zürich ([Bokulich Lab](https://fsb.ethz.ch))
-
+-->
 
 
 <!--
@@ -37,9 +39,10 @@ description: Members of the Gibson Lab
 -->
 ---
 
-### Alumni
-- Daniel Alfonsetti,  MIT UROP (Now at Argo AI)
-- Zack Gromko, MIT UROP (Now a graduate student at MIT)
-- Arashdeep Singh, Buchanan High School (Now an Undergraduate student at MIT)
-- Jashandeep Singh, Buchanan High school (Now an Undergraduate student at MIT)
-- Sawal Acharya, BS Columbia (Now a graduate student at Stanford)
+### Alumni (first position after working in the lab)
+- Daniel Alfonsetti,  MIT UROP (Argo AI)
+- Zack Gromko, MIT UROP (graduate student at MIT)
+- Arashdeep Singh, Buchanan High School (Undergraduate student at MIT)
+- Jashandeep Singh, Buchanan High school (Undergraduate student at MIT)
+- Sawal Acharya, BS Columbia (Graduate student at Stanford)
+- Anja Adamov, Visiting Scholar (returned to ETH Zürich)

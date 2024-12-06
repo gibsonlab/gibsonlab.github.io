@@ -74,7 +74,6 @@ twitter:
 -->
 
 
-
 <div style="align:center;padding-top:25px;text-align:center">
 <p style="line-height:1.8">
 <a class="home" href="https://github.com/GibsonLab" style="display: inline-block"><i class="fa fa-github fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
