@@ -13,7 +13,7 @@ To elucidate complex host-microbiome interactions, we often employ longitudinal 
 [//]: # (The role of the microbiome in some human diseases has long been established. One such example is its direct role as an enteric pathogen. Its role in other aspects of health and disease, however, is still being unraveled. Examples in the latter case include: food allergies, gut motility, arthritis, obesity, asthma, development of the immune system, synthesizing vitamins, maintaining proper gut barrier function, and protection against other pathogens. The recognition of the microbiome’s more prominent role in this wide range of diseases and host systems has resulted in renewed interest in developing therapies, that may have traditionally only targeted host pathways, but that now look to target the microbial contributors as well.)
 
 ### Affiliations
-The Gibson Lab is part of the [Division of Computational Pathology](https://comp-path.bwh.harvard.edu/) at [Brigham and Women's Hospital](https://www.brighamhealth.org/) and [Harvard Medical School](https://hms.harvard.edu/). We are physically located in the  [Hale Building for Transformative Medicine (BTM)](https://www.google.com/maps/place/Building+for+Transformative+Medicine+at+Brigham+and+Women's+Hospital/@42.3353661,-71.1087175,15z/data=!4m5!3m4!1s0x0:0x35376a566e389c7d!8m2!3d42.3353661!4d-71.1087175) in Boston with space also at the [MIT Stata Center](https://www.google.com/maps/place/Stata+Center,+32+Vassar+St,+Cambridge,+MA+02139/@42.3616095,-71.0928242,17z/data=!3m1!4b1!4m5!3m4!1s0x89e370a95d3025a9:0xb1de557289ff6bbe!8m2!3d42.3616095!4d-71.0906355)  in Cambridge. Dr. Gibson has primary faculty appointments at BWH and HMS with secondary appointments at MIT and the Broad Institute. Lab members are primarily drawn from HMS, Harvard, and MIT programs.
+The Gibson Lab is part of the [Division of Computational Pathology](https://comp-path.bwh.harvard.edu/) at [Brigham and Women's Hospital](https://www.brighamhealth.org/) and [Harvard Medical School](https://hms.harvard.edu/). We are physically located in the  [Hale Building for Transformative Medicine (BTM)](https://www.google.com/maps/place/Building+for+Transformative+Medicine+at+Brigham+and+Women's+Hospital/@42.3353661,-71.1087175,15z/data=!4m5!3m4!1s0x0:0x35376a566e389c7d!8m2!3d42.3353661!4d-71.1087175) in Boston. Dr. Gibson has primary faculty appointments at BWH and HMS with secondary appointments at MIT and the Broad Institute. Lab members are primarily drawn from HMS, Harvard, and MIT programs.
 
 ### Funding
 - **NIH R35GM143056**, 2021-2026,  *$2.2M* - [Machine Learning and Control Principles for Computational Biology](/r35/)
@@ -39,9 +39,12 @@ Hale Building for Transformative Medicine (BTM) \\
 **Dr. Gibson - Primary Office** [<i class="fas fa-map-marker-alt"></i>](https://www.google.com/maps/place/Building+for+Transformative+Medicine+at+Brigham+and+Women's+Hospital/@42.3353661,-71.1087175,15z/data=!4m2!3m1!1s0x0:0x35376a566e389c7d?sa=X&ved=2ahUKEwifjKzTzcztAhUPZd8KHSK7D6sQ_BIwCnoECBkQBQ) \\
 8002D Hale BTM
 
-**Dr. Gibson - MIT Office**  [<i class="fas fa-map-marker-alt"></i>](https://www.google.com/maps/place/Stata+Center,+32+Vassar+St,+Cambridge,+MA+02139/data=!4m2!3m1!1s0x89e370a95d3025a9:0xb1de557289ff6bbe?sa=X&ved=2ahUKEwi66L6_l9DyAhVyElkFHe4HB8QQ8gEwLnoECGoQAQ)\\
-MIT Stata Center (32-G570)\\
-32 Vassar St, Cambridge MA 02139
+**Dr. Gibson - Broad Office**  [<i class="fas fa-map-marker-alt"></i>](https://www.google.com/maps/place/Broad+Institute+%7C+Stanley+Building/data=!4m2!3m1!1s0x0:0x62fbfbca32cc6ce4?sa=X&ved=1t:2428&ictx=111)\\
+Floor M1, Office M1104\\
+Stanley Building, 75 Ames St\\
+Cambridge, MA 02142
+
+
 
 <iframe
   class="map"
