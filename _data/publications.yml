@@ -1,10 +1,12 @@
 -   title: On the stability of gradient descent with second order dynamics for time-varying cost functions
     authors: T.E. Gibson, S. Acharya, A. Parashar, J.E. Gaudio, A.M. Annaswamy
-    where: arXiv
-    year: 2024
+    where: Transactions on Machine Learning Research
+    year: 2025
     arxiv: https://arxiv.org/abs/2405.13765
-    pdf: https://arxiv.org/pdf/2405.13765
-    link: https://arxiv.org/abs/2405.13765
+    pdf: https://openreview.net/pdf?id=HlzjI2fn2T
+    link: https://openreview.net/forum?id=HlzjI2fn2T
+    github: https://github.com/gibsonlab/stability_gd_2_tv
+
 
 -   title: Strain Tracking with Uncertainty Quantification
     authors: Y. Kim, C.J. Worby, S. Acharya, L.R. van Dijk, D. Alfonsetti, Z. Gromko, P. Azimzadeh, K. Dodson, G. Gerber, S.J. Hultgren, A.M. Earl, B.A. Berger and T.E. Gibson
