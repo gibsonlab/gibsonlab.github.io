@@ -4,7 +4,9 @@ title: News
 permalink: /news/
 description: News for the Gibson Lab
 ---
-**News** (updated 2024.09)
+**News** (updated 2025.03)
+- ["On the stability of gradient descent with second order dynamics for time-varying cost functions"](https://openreview.net/forum?id=HlzjI2fn2T) now published in Transactions on Machine Learning Research!
+- Pre-print ["Regret analysis: a control perspective"](https://arxiv.org/abs/2501.04572)
 - Pre-print ["On the stability of gradient descent with second order dynamics for time-varying cost functions"](https://arxiv.org/abs/2405.13765)
 - Dan MacDonald received the Banting Postdoctoral Fellowship. Learn more [here](https://comp-path.bwh.harvard.edu/macdonald-fellowship/)  
 - Pre-print ["Strain Tracking with Uncertainty Quantification"](https://doi.org/10.1101/2023.01.25.525531)
