@@ -12,7 +12,9 @@ description: Dr. Travis Gibson is a Principal Investigator at Brigham and Women'
 
 ### Travis Gibson, PhD
 <a href="mailto:tegibson@bwh.harvard.edu" style="display: inline-block"><i class="fa fa-envelope-o"></i> tegibson@bwh.harvard.edu</a> \\
-<a href="https://scholar.google.com/citations?user=epg4RggAAAAJ&hl=en"><i class="fa fa-graduation-cap"></i> Google Scholar </a>
+<a href="https://scholar.google.com/citations?user=epg4RggAAAAJ&hl=en"><i class="fa fa-graduation-cap"></i> Google Scholar </a> \\
+<a href="https://travisgibson.github.io">Personal website </a> 
+
 
 Assistant Professor \\
 Computational Pathology\\
