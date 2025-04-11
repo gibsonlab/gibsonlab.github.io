@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Openings
-permalink: /positions/
+permalink: /openings/
 description: Positions available in the Gibson Lab
 ---
 **PhD students can be based at MIT or Harvard and their interests need not align with specific job openings.**
