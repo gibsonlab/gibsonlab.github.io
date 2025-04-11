@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Positions
+title: Openings
 permalink: /positions/
 description: Positions available in the Gibson Lab
 ---
