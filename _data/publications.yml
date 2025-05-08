@@ -1,3 +1,15 @@
+-   title: Longitudinal profiling of low-abundance strains in microbiomes with ChronoStrain
+    authors: Y. Kim, C.J. Worby, S. Acharya, L.R. van Dijk, D. Alfonsetti, Z. Gromko, P. Azimzadeh, K. Dodson, G. Gerber, S.J. Hultgren, A.M. Earl, B.A. Berger and T.E. Gibson
+    where: Nature Microbiology
+    year: 2025 
+    biorxiv: https://doi.org/10.1101/2023.01.25.525531
+    pdf: https://doi.org/10.1038/s41564-025-01983-z
+    link: https://doi.org/10.1038/s41564-025-01983-z
+    github: https://github.com/gibsonlab/chronostrain
+
+
+
+
 -   title: On the stability of gradient descent with second order dynamics for time-varying cost functions
     authors: T.E. Gibson, S. Acharya, A. Parashar, J.E. Gaudio, A.M. Annaswamy
     where: Transactions on Machine Learning Research
@@ -7,15 +19,6 @@
     link: https://openreview.net/forum?id=HlzjI2fn2T
     github: https://github.com/gibsonlab/stability_gd_2_tv
 
-
--   title: Strain Tracking with Uncertainty Quantification
-    authors: Y. Kim, C.J. Worby, S. Acharya, L.R. van Dijk, D. Alfonsetti, Z. Gromko, P. Azimzadeh, K. Dodson, G. Gerber, S.J. Hultgren, A.M. Earl, B.A. Berger and T.E. Gibson
-    where: bioRxiv (journal version accepted and in press!)
-    year: 2024 (version 2)
-    biorxiv: https://doi.org/10.1101/2023.01.25.525531
-    pdf: https://www.biorxiv.org/content/10.1101/2023.01.25.525531v1.full.pdf
-    link: https://doi.org/10.1101/2023.01.25.525531
-    github: https://github.com/gibsonlab/chronostrain
 
 -   title: Microbial dynamics inference at ecosystem-scale
     authors: T.E. Gibson, Y. Kim, S. Acharya, D.E. Kaplan, N. DiBenedetto, R. Lavin, B. Berger, J.R. Allegretti, L. Bry, G.K. Gerber
