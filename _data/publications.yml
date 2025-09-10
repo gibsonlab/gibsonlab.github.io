@@ -1,3 +1,17 @@
+
+
+-   title: Learning ecosystem-scale dynamics from microbiome data with MDSINE2
+    authors: T.E. Gibson, Y. Kim, S. Acharya, D.E. Kaplan, N. DiBenedetto, R. Lavin, B. Berger, J.R. Allegretti, L. Bry, G.K. Gerber
+    where: Nature Microbiology
+    year: 2025
+    biorxiv: https://doi.org/10.1101/2021.12.14.469105
+    pdf: https://www.nature.com/articles/s41564-025-02112-6.pdf
+    link: https://doi.org/10.1038/s41564-025-02112-6
+    github: https://github.com/gerberlab/MDSINE2_Paper
+
+
+
+
 -   title: Longitudinal profiling of low-abundance strains in microbiomes with ChronoStrain
     authors: Y. Kim, C.J. Worby, S. Acharya, L.R. van Dijk, D. Alfonsetti, Z. Gromko, P. Azimzadeh, K. Dodson, G. Gerber, S.J. Hultgren, A.M. Earl, B.A. Berger and T.E. Gibson
     where: Nature Microbiology
@@ -17,15 +31,6 @@
     link: https://openreview.net/forum?id=HlzjI2fn2T
     github: https://github.com/gibsonlab/stability_gd_2_tv
 
-
--   title: Microbial dynamics inference at ecosystem-scale
-    authors: T.E. Gibson, Y. Kim, S. Acharya, D.E. Kaplan, N. DiBenedetto, R. Lavin, B. Berger, J.R. Allegretti, L. Bry, G.K. Gerber
-    where: bioRxiv
-    year: 2023 (version 2)
-    biorxiv: https://doi.org/10.1101/2021.12.14.469105
-    pdf: https://www.biorxiv.org/content/10.1101/2021.12.14.469105v2.full.pdf
-    link: https://doi.org/10.1101/2021.12.14.469105
-    github: https://github.com/gerberlab/MDSINE2_Paper
 
 -   title: Accelerated Learning with Robustness to Adversarial Regressors
     authors: J.E. Gaudio, A.M. Annaswamy, J.M. Moreu, M.A. Bolender, T.E. Gibson

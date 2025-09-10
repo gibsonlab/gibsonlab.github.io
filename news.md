@@ -5,6 +5,7 @@ permalink: /news/
 description: News for the Gibson Lab
 ---
 **News** (updated 2025.03)
+- ["Learning ecosystem-scale dynamics from microbiome data with MDSINE2"](https://www.nature.com/articles/s41564-025-02112-6) now published in Nature Microbiology!
 - MGB press release on ChronoStrain ["How a Scientist Followed Curiosity (and Love) to Build an Innovative Tool to Track Changes in the Gut Microbiome"](https://mgriblog.org/2025/08/04/scientist-followed-curiosity-love-chronistrain-tool-microbiome/)
 - ["Longitudinal profiling of low-abundance strains in microbiomes with ChronoStrain"](https://doi.org/10.1038/s41564-025-01983-z)  now published in Nature Microbiology!
 - ["On the stability of gradient descent with second order dynamics for time-varying cost functions"](https://openreview.net/forum?id=HlzjI2fn2T) now published in Transactions on Machine Learning Research!
