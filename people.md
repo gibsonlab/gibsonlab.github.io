@@ -13,9 +13,8 @@ description: Members of the Gibson Lab
 - Tarissa Arnold-Mages, tarnoldmages#bwh.harvard.edu (# = @)
 
 ### Postdoctoral Fellows
-- [Utkarsh Sharma PhD](https://u-sharma.github.io/)
-- [Dan MacDonald PhD](https://demacdo.github.io) - [NSERC Banting Postdoctoral Fellow](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/Banting-Banting_eng.asp)
-- [Younhun Kim PhD](http://www-math.mit.edu/~younhun/)
+- [UElena Sofia D'Ambrosio PhD](https://www.linkedin.com/in/elena-sofia-d-ambrosio-b75081143/)
+- [Younhun Kim PhD](https://yk23.github.io)
 
 <!--
 ### Graduate Students
@@ -23,7 +22,7 @@ description: Members of the Gibson Lab
 -->
 
 ### Collaborators
-- [Matthew Levine PhD](https://mattlevine.netlify.app) - [Postdoctoral Fellow at the Broad Institute of MIT/Harvard in the Eric and Wendy Schmidt Center](https://www.ericandwendyschmidtcenter.org/postdoc-fellows)
+- [Stephanie Zhang PhD](https://waltlab.bwh.harvard.edu/current-members/about-stephanie-zhang/) - [Postdoctoral Fellow in Walt Lab](https://waltlab.bwh.harvard.edu)
 
 
 <!--
@@ -46,3 +45,4 @@ description: Members of the Gibson Lab
 - Jashandeep Singh, High school intern (Undergraduate student at MIT)
 - Sawal Acharya, Research Associate (Graduate student at Stanford)
 - Anja Adamov, Visiting Scholar (returned to ETH Zürich)
+- Utkarsh Sharma PhD, stealth startup
