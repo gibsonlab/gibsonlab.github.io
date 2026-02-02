@@ -13,7 +13,7 @@ description: Members of the Gibson Lab
 - Tarissa Arnold-Mages, tarnoldmages#bwh.harvard.edu (# = @)
 
 ### Postdoctoral Fellows
-- [UElena Sofia D'Ambrosio PhD](https://www.linkedin.com/in/elena-sofia-d-ambrosio-b75081143/)
+- [Elena Sofia D'Ambrosio PhD](https://www.linkedin.com/in/elena-sofia-d-ambrosio-b75081143/)
 - [Younhun Kim PhD](https://yk23.github.io)
 
 <!--
