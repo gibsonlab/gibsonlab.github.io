@@ -4,7 +4,8 @@ title: News
 permalink: /news/
 description: News for the Gibson Lab
 ---
-**News** (updated 2025.10)
+**News** (updated 2026.02)
+- Pre-print ["Attomolar fecal cytokine profiling reveals gut immune dynamics and disease states"](https://doi.org/10.64898/2026.03.31.714463)
 - Our recent [TMLR paper](https://openreview.net/forum?id=HlzjI2fn2T) was deemed top 10% of journal papers that year and will now be presented at ICLR 2026 as part of the [Journal to Conference track](https://medium.com/@TmlrOrg/tmlr-joins-neurips-icml-iclr-journal-to-conference-track-937a898eab3d). See you in Brazil!
 - ["Learning ecosystem-scale dynamics from microbiome data with MDSINE2"](https://www.nature.com/articles/s41564-025-02112-6) now published in Nature Microbiology!
 - MGB press release on ChronoStrain ["How a Scientist Followed Curiosity (and Love) to Build an Innovative Tool to Track Changes in the Gut Microbiome"](https://mgriblog.org/2025/08/04/scientist-followed-curiosity-love-chronistrain-tool-microbiome/)
