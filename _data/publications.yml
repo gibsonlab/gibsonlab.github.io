@@ -1,3 +1,11 @@
+- title: Set-Aggregated Genome Embeddings for Microbiome Abundance Prediction
+  authors: Y. Kim, G.K. Gerber, T.E. Gibson
+  where: arXiv
+  year: 2026
+  link: https://arxiv.org/abs/2605.12286v1
+  pdf: https://arxiv.org/pdf/2605.12286v1.pdf
+  github: https://github.com/gibsonlab/microbe_embeddings_mpa
+
 
 -   title: Attomolar fecal cytokine profiling reveals gut immune dynamics and disease states 
     authors: S.J. Zhang, U. Sharma, Y. Senussi, A. Dayao, M. Brown, T. Lomphithak, M. Nguyen, A. Lawless, C. Briskin, T., G. Boland, S. Cohen, S. Snapper,  F. Gazzaniga,  L. Bry, D. Walt, T.E. Gibson
